@@ -1,0 +1,267 @@
+{
+    "data": [
+        {
+            "BMC": "carbide",
+            "description": "CNCFraises DLC O FLUTE 6MM DIA x 22MM CL x 6MM SHANK x 50MM",
+            "expressions": {
+                "tool_bodyLength": "32 mm",
+                "tool_description": "'CNCFraises DLC O FLUTE 6MM DIA x 22MM CL x 6MM SHANK x 50MM'",
+                "tool_diameter": "6 mm",
+                "tool_fluteLength": "22 mm",
+                "tool_manualToolChange": "false",
+                "tool_number": "331",
+                "tool_numberOfFlutes": "1",
+                "tool_overallLength": "50 mm",
+                "tool_productId": "'FC1DA622DLC'",
+                "tool_productLink": "'https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-special-plexiglas-queue-6-mm/381-fraise-1-dent-plexiglas-dlc-diametre-de-coupe-6-mm-longueur-utile-22-mm-queue-6-mm.html'",
+                "tool_shaftDiameter": "6 mm",
+                "tool_shoulderLength": "28 mm",
+                "tool_vendor": "'CNCFraises'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 6,
+                "HAND": true,
+                "LB": 32,
+                "LCF": 22,
+                "NOF": 1,
+                "OAL": 50,
+                "SFDM": 6,
+                "assemblyGaugeLength": 32,
+                "shoulder-diameter": 6,
+                "shoulder-length": 28
+            },
+            "guid": "1dc2e861-8910-4468-903e-4cf1bc553ee0",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 331,
+                "length-offset": 331,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 331,
+                "turret": 0
+            },
+            "product-id": "FC1DA622DLC",
+            "product-link": "https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-special-plexiglas-queue-6-mm/381-fraise-1-dent-plexiglas-dlc-diametre-de-coupe-6-mm-longueur-utile-22-mm-queue-6-mm.html",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "400 mmpm",
+                            "tool_feedPlunge": "200 mmpm",
+                            "tool_feedRamp": "300 mmpm",
+                            "tool_spindleSpeed": "9000 rpm",
+                            "tool_stepdown": "1 mm",
+                            "tool_stepover": "2.4 mm"
+                        },
+                        "f_n": 0.022222222222222223,
+                        "f_z": 0.044444444444444446,
+                        "guid": "2f3764c5-0204-414d-be85-a94a861755f6",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 9000,
+                        "n_ramp": 9000,
+                        "name": "default",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 2.4,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 169.64600329384882,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 400,
+                        "v_f_plunge": 200,
+                        "v_f_ramp": 300,
+                        "v_f_transition": 400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "CNCFraises"
+        },
+        {
+            "BMC": "carbide",
+            "description": "CNCFraises DLC O FLUTE 4MM DIA x 32MM CL x 4MM SHANK x 65MM",
+            "expressions": {
+                "tool_bodyLength": "47 mm",
+                "tool_description": "'CNCFraises DLC O FLUTE 4MM DIA x 32MM CL x 4MM SHANK x 65MM'",
+                "tool_diameter": "4 mm",
+                "tool_fluteLength": "32 mm",
+                "tool_manualToolChange": "false",
+                "tool_number": "321",
+                "tool_numberOfFlutes": "1",
+                "tool_overallLength": "65 mm",
+                "tool_productId": "'FC1DA4032DLC'",
+                "tool_productLink": "'https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-alu-pmma-queue-4-mm/385-fraise-1-dent-dlc-carbure-diametre-de-coupe-4-mm-longueur-utile-32-mm-queue-4-mm.html'",
+                "tool_shaftDiameter": "4 mm",
+                "tool_shoulderLength": "38 mm",
+                "tool_vendor": "'CNCFraises'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 47,
+                "LCF": 32,
+                "NOF": 1,
+                "OAL": 65,
+                "SFDM": 4,
+                "assemblyGaugeLength": 47,
+                "shoulder-diameter": 4,
+                "shoulder-length": 38
+            },
+            "guid": "b0f33562-fbc6-40ec-88ea-2514030c5e93",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 321,
+                "length-offset": 321,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 321,
+                "turret": 0
+            },
+            "product-id": "FC1DA4032DLC",
+            "product-link": "https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-alu-pmma-queue-4-mm/385-fraise-1-dent-dlc-carbure-diametre-de-coupe-4-mm-longueur-utile-32-mm-queue-4-mm.html",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "400 mmpm",
+                            "tool_feedPlunge": "200 mmpm",
+                            "tool_feedRamp": "300 mmpm",
+                            "tool_spindleSpeed": "9000 rpm",
+                            "tool_stepdown": "1 mm",
+                            "tool_stepover": "1.6 mm"
+                        },
+                        "f_n": 0.022222222222222223,
+                        "f_z": 0.044444444444444446,
+                        "guid": "2f3764c5-0204-414d-be85-a94a861755f6",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 9000,
+                        "n_ramp": 9000,
+                        "name": "default",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 1.6,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 113.09733552923257,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 400,
+                        "v_f_plunge": 200,
+                        "v_f_ramp": 300,
+                        "v_f_transition": 400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "CNCFraises"
+        },
+        {
+            "BMC": "ti coated",
+            "description": "CNCFraises COMPRESSION 2 FL 4MM DIA x 22MM CL x 4MM SHANK x 55MM",
+            "expressions": {
+                "tool_bodyLength": "37 mm",
+                "tool_description": "'CNCFraises COMPRESSION 2 FL 4MM DIA x 22MM CL x 4MM SHANK x 55MM'",
+                "tool_diameter": "4 mm",
+                "tool_fluteLength": "22 mm",
+                "tool_manualToolChange": "false",
+                "tool_material": "'ti coated'",
+                "tool_number": "301",
+                "tool_overallLength": "55 mm",
+                "tool_productId": "'FC2DCOMP422EB'",
+                "tool_productLink": "'https://www.cncfraises.fr/fraises-2-dents-compression-carbure-queue-4-mm/493-fraise-2-dents-compression-4-mm-longueur-utile-22mm.html'",
+                "tool_shaftDiameter": "4 mm",
+                "tool_shoulderLength": "29 mm",
+                "tool_unit": "'millimeters'",
+                "tool_vendor": "'CNCFraises'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 37,
+                "LCF": 22,
+                "NOF": 2,
+                "OAL": 55,
+                "SFDM": 4,
+                "assemblyGaugeLength": 37,
+                "shoulder-diameter": 4,
+                "shoulder-length": 29
+            },
+            "guid": "45e0d345-0711-4705-85ee-607ee8a3c428",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 301,
+                "length-offset": 301,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 301,
+                "turret": 0
+            },
+            "product-id": "FC2DCOMP422EB",
+            "product-link": "https://www.cncfraises.fr/fraises-2-dents-compression-carbure-queue-4-mm/493-fraise-2-dents-compression-4-mm-longueur-utile-22mm.html",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "2400 mmpm",
+                            "tool_feedPlunge": "800 mmpm",
+                            "tool_feedRamp": "800 mmpm",
+                            "tool_spindleSpeed": "18000 rpm",
+                            "tool_stepdown": "4 mm",
+                            "tool_stepover": "1.6 mm"
+                        },
+                        "f_n": 0.044444444444444446,
+                        "f_z": 0.06666666666666667,
+                        "guid": "2f3764c5-0204-414d-be85-a94a861755f6",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "default",
+                        "ramp-angle": 2,
+                        "stepdown": 4,
+                        "stepover": 1.6,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 226.1946710584651,
+                        "v_f": 2400,
+                        "v_f_leadIn": 2400,
+                        "v_f_leadOut": 2400,
+                        "v_f_plunge": 800,
+                        "v_f_ramp": 800,
+                        "v_f_transition": 2400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "CNCFraises"
+        }
+    ],
+    "version": 35
+}

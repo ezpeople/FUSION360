@@ -1,0 +1,1203 @@
+{
+    "data": [
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "6mm Flat end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 6,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 12,
+                "NOF": 2,
+                "OAL": 69,
+                "SFDM": 6.35,
+                "assemblyGaugeLength": 66,
+                "shoulder-diameter": 6,
+                "shoulder-length": 15
+            },
+            "guid": "30d592e5-2611-484b-a06a-5636612496d4",
+            "holder": {
+                "description": "ER11 Holder",
+                "gaugeLength": 28,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 13,
+                        "lower-diameter": 19,
+                        "upper-diameter": 19
+                    },
+                    {
+                        "height": 10,
+                        "lower-diameter": 14,
+                        "upper-diameter": 14
+                    },
+                    {
+                        "height": 5,
+                        "lower-diameter": 16,
+                        "upper-diameter": 16
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.0125,
+                        "f_z": 0.016666666666666666,
+                        "guid": "e11fc765-6ad9-4341-9879-e47a74abfc2d",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "默认预设",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 226.1946710584651,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "2.5mm Flat end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 2.5,
+                "HAND": true,
+                "LB": 15,
+                "LCF": 8,
+                "NOF": 2,
+                "OAL": 41,
+                "SFDM": 6.35,
+                "assemblyGaugeLength": 43,
+                "shoulder-diameter": 2.5,
+                "shoulder-length": 10
+            },
+            "guid": "4bb8585d-c2b7-434b-b985-fd616690c435",
+            "holder": {
+                "description": "ER11 Holder",
+                "gaugeLength": 28,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 13,
+                        "lower-diameter": 19,
+                        "upper-diameter": 19
+                    },
+                    {
+                        "height": 10,
+                        "lower-diameter": 14,
+                        "upper-diameter": 14
+                    },
+                    {
+                        "height": 5,
+                        "lower-diameter": 16,
+                        "upper-diameter": 16
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.0125,
+                        "f_z": 0.016666666666666666,
+                        "guid": "3349fb4d-7893-4304-97c1-f63eb466d938",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "默认预设",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 94.2477796076938,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "4mm Flat end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 24,
+                "LCF": 8,
+                "NOF": 2,
+                "OAL": 40,
+                "SFDM": 4,
+                "assemblyGaugeLength": 52,
+                "shoulder-diameter": 4,
+                "shoulder-length": 12
+            },
+            "guid": "619a5223-b6d4-45f8-8863-f4f9b6cb9a51",
+            "holder": {
+                "description": "ER11 Holder",
+                "gaugeLength": 28,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 13,
+                        "lower-diameter": 19,
+                        "upper-diameter": 19
+                    },
+                    {
+                        "height": 10,
+                        "lower-diameter": 14,
+                        "upper-diameter": 14
+                    },
+                    {
+                        "height": 5,
+                        "lower-diameter": 16,
+                        "upper-diameter": 16
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.0125,
+                        "f_z": 0.016666666666666666,
+                        "guid": "0f52455e-2746-4a99-9a4b-f84ee52c4e52",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "默认预设",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 150.79644737231007,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "Double Flute, 3.175mm Flat end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 24,
+                "NOF": 2,
+                "OAL": 45,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 58,
+                "shoulder-diameter": 3.175,
+                "shoulder-length": 25
+            },
+            "guid": "89a36aca-d57a-4a05-bad0-18422b9401d5",
+            "holder": {
+                "description": "ER11 Holder",
+                "gaugeLength": 28,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 13,
+                        "lower-diameter": 19,
+                        "upper-diameter": 19
+                    },
+                    {
+                        "height": 10,
+                        "lower-diameter": 14,
+                        "upper-diameter": 14
+                    },
+                    {
+                        "height": 5,
+                        "lower-diameter": 16,
+                        "upper-diameter": 16
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.0125,
+                        "f_z": 0.016666666666666666,
+                        "guid": "d6a393e6-0ea6-45c0-a1e1-3fcf87694b3d",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "默认预设",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 119.69468010177113,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "1.5mm Flat end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 1.5,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 12,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 92.8396,
+                "shoulder-diameter": 1.5,
+                "shoulder-length": 15
+            },
+            "guid": "976d2c8d-23e0-44de-8278-55e59234db47",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "gaugeLength": 2.474,
+                "guid": "e800051b-e2d6-4699-a2b6-dad6466a0a0c",
+                "last_modified": 1485790626152,
+                "product-id": "CAT40-ER32-2.35",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.148,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.836,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.176,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.57
+                    },
+                    {
+                        "height": 0.09,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.425,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.05,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.85
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.0125,
+                        "f_z": 0.016666666666666666,
+                        "guid": "7d2656ba-f27f-43de-be09-411fe3acbbec",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "默认预设",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 56.54866776461627,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "5mm Flat end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 5,
+                "HAND": true,
+                "LB": 38,
+                "LCF": 12,
+                "NOF": 2,
+                "OAL": 69,
+                "SFDM": 6.35,
+                "assemblyGaugeLength": 66,
+                "shoulder-diameter": 5,
+                "shoulder-length": 15
+            },
+            "guid": "a234aab1-d023-470b-9dbe-99601f6b68ed",
+            "holder": {
+                "description": "ER11 Holder",
+                "gaugeLength": 28,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 13,
+                        "lower-diameter": 19,
+                        "upper-diameter": 19
+                    },
+                    {
+                        "height": 10,
+                        "lower-diameter": 14,
+                        "upper-diameter": 14
+                    },
+                    {
+                        "height": 5,
+                        "lower-diameter": 16,
+                        "upper-diameter": 16
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.0125,
+                        "f_z": 0.016666666666666666,
+                        "guid": "48ff96e1-2a1f-493f-9c17-ff85fbf7f3e2",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "默认预设",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 188.4955592153876,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "Single Flute, 3.175mm Flat end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 24,
+                "NOF": 1,
+                "OAL": 45,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 58,
+                "shoulder-diameter": 3.175,
+                "shoulder-length": 25
+            },
+            "guid": "c86d6b91-e156-44d8-b028-0cd972f1331d",
+            "holder": {
+                "description": "ER11 Holder",
+                "gaugeLength": 28,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 13,
+                        "lower-diameter": 19,
+                        "upper-diameter": 19
+                    },
+                    {
+                        "height": 10,
+                        "lower-diameter": 14,
+                        "upper-diameter": 14
+                    },
+                    {
+                        "height": 5,
+                        "lower-diameter": 16,
+                        "upper-diameter": 16
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.0125,
+                        "f_z": 0.03333333333333333,
+                        "guid": "d6a393e6-0ea6-45c0-a1e1-3fcf87694b3d",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "默认预设",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 119.69468010177113,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "3.175mm Ball end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 16,
+                "NOF": 3,
+                "OAL": 38,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 92.8396,
+                "shoulder-diameter": 3.175,
+                "shoulder-length": 20
+            },
+            "guid": "fe36635a-83ff-477a-a0e2-79d4c6f43ff9",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "gaugeLength": 2.474,
+                "guid": "e800051b-e2d6-4699-a2b6-dad6466a0a0c",
+                "last_modified": 1485790626152,
+                "product-id": "CAT40-ER32-2.35",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.148,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.836,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.176,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.57
+                    },
+                    {
+                        "height": 0.09,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.425,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.05,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.85
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.0125,
+                        "f_z": 0.011111111111111112,
+                        "guid": "91f7c4c6-276e-4132-a5e3-87ece3e66b93",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "默认预设",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 119.69468010177113,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 400
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "2mm Double Flute Ball end mill",
+            "expressions": {
+                "tool_bodyLength": "26.50 mm",
+                "tool_description": "'2mm Double Flute Ball end mill'",
+                "tool_diameter": "2 mm",
+                "tool_fluteLength": "5 mm",
+                "tool_manualToolChange": "true",
+                "tool_numberOfFlutes": "2",
+                "tool_overallLength": "50 mm",
+                "tool_shaftDiameter": "4 mm"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 2,
+                "HAND": true,
+                "LB": 26.5,
+                "LCF": 5,
+                "NOF": 2,
+                "OAL": 50,
+                "SFDM": 4,
+                "assemblyGaugeLength": 59.5,
+                "shoulder-diameter": 2,
+                "shoulder-length": 20
+            },
+            "guid": "f8b34295-1f82-4a9d-b77f-130b6e3582ba",
+            "holder": {
+                "description": "SM2.0 ER11",
+                "expressions": {
+                    "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height"
+                },
+                "gaugeLength": 33,
+                "guid": "7ac0fe75-e9cc-4a57-9918-fd8b36ff5783",
+                "last_modified": 1646345850445,
+                "product-id": "",
+                "product-link": "",
+                "reference_guid": "9540f7d1-950e-4455-9b4b-3ddd8b8bb535",
+                "segments": [
+                    {
+                        "height": 1,
+                        "lower-diameter": 15,
+                        "upper-diameter": 19.5
+                    },
+                    {
+                        "height": 12.500000000000004,
+                        "lower-diameter": 19.5,
+                        "upper-diameter": 19.5
+                    },
+                    {
+                        "height": 0.5,
+                        "lower-diameter": 19.5,
+                        "upper-diameter": 18.5
+                    },
+                    {
+                        "height": 19,
+                        "lower-diameter": 15.500000000000004,
+                        "upper-diameter": 15.500000000000004
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": "Snapmaker"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "900 mmpm",
+                            "tool_feedExit": "900 mmpm",
+                            "tool_feedPlunge": "200mm/min",
+                            "tool_spindleSpeed": "9000 rpm"
+                        },
+                        "f_n": 0.022222222222222223,
+                        "f_z": 0.05,
+                        "guid": "91f7c4c6-276e-4132-a5e3-87ece3e66b93",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 9000,
+                        "n_ramp": 9000,
+                        "name": "默认预设",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 56.54866776461627,
+                        "v_f": 900,
+                        "v_f_leadIn": 900,
+                        "v_f_leadOut": 900,
+                        "v_f_plunge": 200,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 900
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "4mm Triple Flute Flat end mill",
+            "expressions": {
+                "tool_bodyLength": "27 mm",
+                "tool_description": "'4mm Triple Flute Flat end mill'",
+                "tool_fluteLength": "9 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "2",
+                "tool_numberOfFlutes": "3",
+                "tool_overallLength": "50 mm",
+                "tool_shoulderLength": "12 mm"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 27,
+                "LCF": 9,
+                "NOF": 3,
+                "OAL": 50,
+                "SFDM": 4,
+                "assemblyGaugeLength": 60,
+                "shoulder-diameter": 4,
+                "shoulder-length": 12
+            },
+            "guid": "4819ccbd-efb6-4c84-9272-57a4c56c0cb1",
+            "holder": {
+                "description": "SM2.0 ER11",
+                "expressions": {
+                    "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height"
+                },
+                "gaugeLength": 33,
+                "guid": "7ac0fe75-e9cc-4a57-9918-fd8b36ff5783",
+                "last_modified": 1646345850445,
+                "product-id": "",
+                "product-link": "",
+                "reference_guid": "9540f7d1-950e-4455-9b4b-3ddd8b8bb535",
+                "segments": [
+                    {
+                        "height": 1,
+                        "lower-diameter": 15,
+                        "upper-diameter": 19.5
+                    },
+                    {
+                        "height": 12.500000000000004,
+                        "lower-diameter": 19.5,
+                        "upper-diameter": 19.5
+                    },
+                    {
+                        "height": 0.5,
+                        "lower-diameter": 19.5,
+                        "upper-diameter": 18.5
+                    },
+                    {
+                        "height": 19,
+                        "lower-diameter": 15.500000000000004,
+                        "upper-diameter": 15.500000000000004
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": "Snapmaker"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 2,
+                "length-offset": 2,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 2,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "1200 mm/min",
+                            "tool_feedExit": "1200 mmpm",
+                            "tool_feedPlunge": "200 mm/min",
+                            "tool_feedTransition": "1500 mm/min",
+                            "tool_spindleSpeed": "9000 rpm"
+                        },
+                        "f_n": 0.022222222222222223,
+                        "f_z": 0.044444444444444446,
+                        "guid": "0f52455e-2746-4a99-9a4b-f84ee52c4e52",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 9000,
+                        "n_ramp": 9000,
+                        "name": "默认预设",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 113.09733552923257,
+                        "v_f": 1200,
+                        "v_f_leadIn": 1200,
+                        "v_f_leadOut": 1200,
+                        "v_f_plunge": 200,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 1500
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "Double Flute, 3.175mm Flat end mill",
+            "expressions": {
+                "tool_manualToolChange": "true",
+                "tool_number": "3"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 24,
+                "NOF": 2,
+                "OAL": 45,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 63,
+                "shoulder-diameter": 3.175,
+                "shoulder-length": 25
+            },
+            "guid": "aede4053-12f7-407a-9115-c9a948087c45",
+            "holder": {
+                "description": "SM2.0 ER11",
+                "expressions": {
+                    "tool_holderGaugeLength": "segment_1_height + segment_2_height + segment_3_height + segment_4_height"
+                },
+                "gaugeLength": 33,
+                "guid": "7ac0fe75-e9cc-4a57-9918-fd8b36ff5783",
+                "last_modified": 1646345850445,
+                "product-id": "",
+                "product-link": "",
+                "reference_guid": "9540f7d1-950e-4455-9b4b-3ddd8b8bb535",
+                "segments": [
+                    {
+                        "height": 1,
+                        "lower-diameter": 15,
+                        "upper-diameter": 19.5
+                    },
+                    {
+                        "height": 12.500000000000004,
+                        "lower-diameter": 19.5,
+                        "upper-diameter": 19.5
+                    },
+                    {
+                        "height": 0.5,
+                        "lower-diameter": 19.5,
+                        "upper-diameter": 18.5
+                    },
+                    {
+                        "height": 19,
+                        "lower-diameter": 15.500000000000004,
+                        "upper-diameter": 15.500000000000004
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": "Snapmaker"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 3,
+                "length-offset": 3,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 3,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.0125,
+                        "f_z": 0.016666666666666666,
+                        "guid": "d6a393e6-0ea6-45c0-a1e1-3fcf87694b3d",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 12000,
+                        "n_ramp": 12000,
+                        "name": "默认预设",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 119.69468010177113,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        }
+    ],
+    "version": 35
+}

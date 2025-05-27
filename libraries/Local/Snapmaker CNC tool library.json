@@ -1,0 +1,449 @@
+{
+    "data": [
+        {
+            "BMC": "hss",
+            "GRADE": "generic",
+            "description": "3.175 V-Bit",
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 20,
+                "LCF": 10,
+                "NOF": 4,
+                "OAL": 28,
+                "SFDM": 3.175,
+                "SIG": 30,
+                "assemblyGaugeLength": 82.8396,
+                "shoulder-length": 15,
+                "tip-diameter": 0
+            },
+            "guid": "433f52ce-3582-4a1b-ad63-9065718e6ad8",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "gaugeLength": 62.8396,
+                "guid": "",
+                "product-id": "CAT40-ER32-2.35",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 3.7592,
+                        "lower-diameter": 38.1,
+                        "upper-diameter": 50.038
+                    },
+                    {
+                        "height": 21.2344,
+                        "lower-diameter": 50.038,
+                        "upper-diameter": 50.038
+                    },
+                    {
+                        "height": 4.4704,
+                        "lower-diameter": 39.878,
+                        "upper-diameter": 39.878
+                    },
+                    {
+                        "height": 2.286,
+                        "lower-diameter": 39.878,
+                        "upper-diameter": 44.45
+                    },
+                    {
+                        "height": 10.795,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    },
+                    {
+                        "height": 1.27,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 46.99
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 62.0268,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.683,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.9972,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 56.261
+                    },
+                    {
+                        "height": 2.0066,
+                        "lower-diameter": 56.261,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 3.6322,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 63.5508
+                    },
+                    {
+                        "height": 0.762,
+                        "lower-diameter": 63.5508,
+                        "upper-diameter": 62.0268
+                    },
+                    {
+                        "height": 3.175,
+                        "lower-diameter": 44.45,
+                        "upper-diameter": 44.45
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": "Maritool"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_z": 0.00234375,
+                        "guid": "cdedd958-dc4f-7c3c-465d-f586f154f945",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 16000,
+                        "name": "Default Preset",
+                        "tool-coolant": "suction",
+                        "use-feed-per-revolution": false,
+                        "v_c": 159.5929068023615,
+                        "v_f": 150,
+                        "v_f_leadIn": 150,
+                        "v_f_leadOut": 3600,
+                        "v_f_plunge": 40,
+                        "v_f_ramp": 150,
+                        "v_f_retract": 1200,
+                        "v_f_transition": 150
+                    }
+                ]
+            },
+            "type": "spot drill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "1.5mm Flat end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 1.5,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 7,
+                "NOF": 3,
+                "OAL": 38,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 92.8396,
+                "shoulder-diameter": 1.5,
+                "shoulder-length": 15
+            },
+            "guid": "976d2c8d-23e0-44de-8278-55e59234db47",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "gaugeLength": 2.474,
+                "guid": "e800051b-e2d6-4699-a2b6-dad6466a0a0c",
+                "last_modified": 1485790626152,
+                "product-id": "CAT40-ER32-2.35",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.148,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.836,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.176,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.57
+                    },
+                    {
+                        "height": 0.09,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.425,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.05,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.85
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.0025,
+                        "f_z": 0.0020833333333333333,
+                        "guid": "1b7a988d-4242-08cd-c82d-98b1ccd69b6c",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 16000,
+                        "n_ramp": 16000,
+                        "name": "Default Preset",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 75.39822368615503,
+                        "v_f": 100,
+                        "v_f_leadIn": 100,
+                        "v_f_leadOut": 3000,
+                        "v_f_plunge": 40,
+                        "v_f_ramp": 40,
+                        "v_f_transition": 100
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "3.175mm Ball end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 16,
+                "NOF": 3,
+                "OAL": 38,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 92.8396,
+                "shoulder-diameter": 3.175,
+                "shoulder-length": 20
+            },
+            "guid": "c152fcfd-75e9-46f2-b16c-e05bc87fc3bd",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "gaugeLength": 2.474,
+                "guid": "e800051b-e2d6-4699-a2b6-dad6466a0a0c",
+                "last_modified": 1485790626152,
+                "product-id": "CAT40-ER32-2.35",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.148,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.836,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.176,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.57
+                    },
+                    {
+                        "height": 0.09,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.425,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.05,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.85
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.00125,
+                        "f_z": 0.00125,
+                        "guid": "9308faa4-4e42-a347-94af-7bbb81cf64d2",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 16000,
+                        "n_ramp": 16000,
+                        "name": "Default Preset",
+                        "ramp-angle": 2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": false,
+                        "use-stepover": false,
+                        "v_c": 159.5929068023615,
+                        "v_f": 60,
+                        "v_f_leadIn": 60,
+                        "v_f_leadOut": 60,
+                        "v_f_plunge": 20,
+                        "v_f_ramp": 20,
+                        "v_f_transition": 60
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        }
+    ],
+    "version": 35
+}

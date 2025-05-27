@@ -1,0 +1,1658 @@
+{
+    "data": [
+        {
+            "BMC": "unspecified",
+            "description": "PLANE - 2+2 FLUTES SPOILBOARD 38.1MM DIA x 8MM SHANK",
+            "expressions": {
+                "tool_bodyLength": "45 mm",
+                "tool_comment": "'9 PLANE - SHANK DIAM MM - SURFACE 0.1 MM'",
+                "tool_description": "'PLANE - 2+2 FLUTES SPOILBOARD 38.1MM DIA x 8MM SHANK'",
+                "tool_diameter": "38.1 mm",
+                "tool_fluteLength": "12 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "98381",
+                "tool_numberOfFlutes": "2",
+                "tool_overallLength": "60 mm",
+                "tool_productId": "'W05007'",
+                "tool_productLink": "'https://spetools.com/en-eu/products/spetool-eu-w05007-2-2-flutes-spoilboard-38-1mm-dia-x-8mm-shank'",
+                "tool_shaftDiameter": "8 mm",
+                "tool_shoulderLength": "15 mm",
+                "tool_unit": "'millimeters'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 38.1,
+                "DCX": 38.1,
+                "HAND": true,
+                "LB": 45,
+                "LCF": 12,
+                "NOF": 2,
+                "OAL": 60,
+                "RE": 0,
+                "SFDM": 8,
+                "TA": 0,
+                "assemblyGaugeLength": 45,
+                "shoulder-diameter": 38.1,
+                "shoulder-length": 15,
+                "upper-radius": 0
+            },
+            "guid": "987fd521-9016-482a-98fc-1fa13e65da93",
+            "post-process": {
+                "break-control": false,
+                "comment": "9 PLANE - SHANK DIAM MM - SURFACE 0.1 MM",
+                "diameter-offset": 98381,
+                "length-offset": 98381,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 98381,
+                "turret": 0
+            },
+            "product-id": "W05007",
+            "product-link": "https://spetools.com/en-eu/products/spetool-eu-w05007-2-2-flutes-spoilboard-38-1mm-dia-x-8mm-shank",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "4800 mmpm",
+                            "tool_feedPlunge": "1600 mmpm",
+                            "tool_feedRamp": "1600 mmpm",
+                            "tool_spindleSpeed": "16000 rpm",
+                            "tool_stepdown": "3 mm",
+                            "tool_stepover": "30.48 mm",
+                            "use_tool_stepdown": "true"
+                        },
+                        "f_n": 0.1,
+                        "f_z": 0.15,
+                        "guid": "df6579cd-975d-4992-81de-d720c77260f8",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 16000,
+                        "n_ramp": 8000.000000000003,
+                        "name": "Default",
+                        "ramp-angle": 2,
+                        "stepdown": 3,
+                        "stepover": 30.48,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 1915.1148816283385,
+                        "v_f": 4800,
+                        "v_f_leadIn": 4800,
+                        "v_f_leadOut": 4800,
+                        "v_f_plunge": 1600,
+                        "v_f_ramp": 1600,
+                        "v_f_transition": 4800
+                    }
+                ]
+            },
+            "type": "face mill",
+            "unit": "millimeters",
+            "vendor": "SpeTool"
+        },
+        {
+            "BMC": "unspecified",
+            "description": "PLANE - 4 FLUTES SPOILBOARD 40MM DIA x 8MM SHANK",
+            "expressions": {
+                "tool_bodyLength": "35 mm",
+                "tool_comment": "'9 PLANE - SHANK DIAM MM - SURFACE 0.1 MM'",
+                "tool_description": "'PLANE - 4 FLUTES SPOILBOARD 40MM DIA x 8MM SHANK'",
+                "tool_diameter": "40 mm",
+                "tool_fluteLength": "10.5 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "98400",
+                "tool_numberOfFlutes": "4",
+                "tool_overallLength": "53.28 mm",
+                "tool_productId": "'W05009'",
+                "tool_productLink": "'https://spetools.com/en-eu/products/spetool-eu-w05009-4-flutes-spoilboard-40mm-dia-x-8mm-shank'",
+                "tool_shaftDiameter": "8 mm",
+                "tool_shoulderLength": "18.28 mm",
+                "tool_unit": "'millimeters'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 40,
+                "DCX": 40,
+                "HAND": true,
+                "LB": 35,
+                "LCF": 10.5,
+                "NOF": 4,
+                "OAL": 53.28,
+                "RE": 0,
+                "SFDM": 8,
+                "TA": 0,
+                "assemblyGaugeLength": 35,
+                "shoulder-diameter": 40,
+                "shoulder-length": 18.28,
+                "upper-radius": 0
+            },
+            "guid": "708c233f-f79f-464a-b434-042a447d2dbf",
+            "post-process": {
+                "break-control": false,
+                "comment": "9 PLANE - SHANK DIAM MM - SURFACE 0.1 MM",
+                "diameter-offset": 98400,
+                "length-offset": 98400,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 98400,
+                "turret": 0
+            },
+            "product-id": "W05009",
+            "product-link": "https://spetools.com/en-eu/products/spetool-eu-w05009-4-flutes-spoilboard-40mm-dia-x-8mm-shank",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "3900 mmpm",
+                            "tool_feedPlunge": "1300 mmpm",
+                            "tool_feedRamp": "1300 mmpm",
+                            "tool_spindleSpeed": "16000 rpm",
+                            "tool_stepdown": "4 mm",
+                            "tool_stepover": "32 mm",
+                            "use_tool_stepdown": "true"
+                        },
+                        "f_n": 0.08125,
+                        "f_z": 0.0609375,
+                        "guid": "df6579cd-975d-4992-81de-d720c77260f8",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 16000,
+                        "n_ramp": 8000.000000000003,
+                        "name": "Default",
+                        "ramp-angle": 2,
+                        "stepdown": 4,
+                        "stepover": 32,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 2010.619298297468,
+                        "v_f": 3900,
+                        "v_f_leadIn": 3900,
+                        "v_f_leadOut": 3900,
+                        "v_f_plunge": 1300,
+                        "v_f_ramp": 1300,
+                        "v_f_transition": 3900
+                    }
+                ]
+            },
+            "type": "face mill",
+            "unit": "millimeters",
+            "vendor": "SpeTool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "CARVE - SC 3 FL 4MM DIA x 90 DEG x 4MM SHANK x 50MM",
+            "expressions": {
+                "tool_bodyLength": "30 mm",
+                "tool_description": "'CARVE - SC 3 FL 4MM DIA x 90 DEG x 4MM SHANK x 50MM'",
+                "tool_diameter": "4 mm",
+                "tool_fluteLength": "2 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "10490",
+                "tool_numberOfFlutes": "3",
+                "tool_overallLength": "50 mm",
+                "tool_productId": "'ECP3F-D4.0-R90'",
+                "tool_productLink": "'https://spetools.com/en-eu/products/spetool-3-floten-v-nutfraser-4-mm-schaft-90-grad'",
+                "tool_shaftDiameter": "4 mm",
+                "tool_shoulderLength": "5 mm",
+                "tool_taperAngle": "45 degrees",
+                "tool_unit": "'millimeters'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 2,
+                "NOF": 3,
+                "OAL": 50,
+                "SFDM": 4,
+                "TA": 45,
+                "assemblyGaugeLength": 30,
+                "shoulder-diameter": 4,
+                "shoulder-length": 5,
+                "tip-diameter": 0
+            },
+            "guid": "c2efa1eb-aa4e-4fc0-b359-c2fea42f7b7c",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 10490,
+                "length-offset": 10490,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 10490,
+                "turret": 0
+            },
+            "product-id": "ECP3F-D4.0-R90",
+            "product-link": "https://spetools.com/en-eu/products/spetool-3-floten-v-nutfraser-4-mm-schaft-90-grad",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "200 mmpm",
+                            "tool_feedPlunge": "133 mmpm",
+                            "tool_feedRamp": "tool_feedCutting",
+                            "tool_feedTransition": "1500 mmpm",
+                            "tool_spindleSpeed": "1000 rpm",
+                            "tool_stepdown": "0.3 mm",
+                            "tool_stepover": "0.4 mm"
+                        },
+                        "f_n": 0.133,
+                        "f_z": 0.06666666666666667,
+                        "guid": "eb003e1c-78b8-4972-9216-1b63b40148a8",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 1000,
+                        "n_ramp": 1000,
+                        "name": "Acrylic",
+                        "ramp-angle": 2,
+                        "stepdown": 0.3,
+                        "stepover": 0.4,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 12.566370614359176,
+                        "v_f": 200,
+                        "v_f_leadIn": 200,
+                        "v_f_leadOut": 200,
+                        "v_f_plunge": 133,
+                        "v_f_ramp": 200,
+                        "v_f_transition": 1500
+                    }
+                ]
+            },
+            "type": "chamfer mill",
+            "unit": "millimeters",
+            "vendor": "SpeTool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "CARVE - SC 3 FL 4MM DIA x 60 DEG x 4MM SHANK x 50MM",
+            "expressions": {
+                "tool_bodyLength": "30 mm",
+                "tool_description": "'CARVE - SC 3 FL 4MM DIA x 60 DEG x 4MM SHANK x 50MM'",
+                "tool_diameter": "4 mm",
+                "tool_fluteLength": "3.464 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "10460",
+                "tool_numberOfFlutes": "3",
+                "tool_overallLength": "50 mm",
+                "tool_productId": "'ECP3F-D4.0-R60'",
+                "tool_productLink": "'https://spetools.com/en-eu/products/de-spetool-3-floten-v-nutfraser-4-mm-schaft-60-deg'",
+                "tool_shaftDiameter": "4 mm",
+                "tool_shoulderLength": "5 mm",
+                "tool_unit": "'millimeters'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 3.464,
+                "NOF": 3,
+                "OAL": 50,
+                "SFDM": 4,
+                "TA": 30.00000000000001,
+                "assemblyGaugeLength": 30,
+                "shoulder-diameter": 4,
+                "shoulder-length": 5,
+                "tip-diameter": 0
+            },
+            "guid": "576a75a6-1690-4f66-bf26-60f9fcc402dc",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 10460,
+                "length-offset": 10460,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 10460,
+                "turret": 0
+            },
+            "product-id": "ECP3F-D4.0-R60",
+            "product-link": "https://spetools.com/en-eu/products/de-spetool-3-floten-v-nutfraser-4-mm-schaft-60-deg",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "200 mmpm",
+                            "tool_feedPlunge": "133 mmpm",
+                            "tool_feedRamp": "tool_feedCutting",
+                            "tool_feedTransition": "1500 mmpm",
+                            "tool_spindleSpeed": "1000 rpm",
+                            "tool_stepdown": "0.3 mm",
+                            "tool_stepover": "0.4 mm"
+                        },
+                        "f_n": 0.133,
+                        "f_z": 0.06666666666666667,
+                        "guid": "eb003e1c-78b8-4972-9216-1b63b40148a8",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 1000,
+                        "n_ramp": 1000,
+                        "name": "Acrylic",
+                        "ramp-angle": 2,
+                        "stepdown": 0.3,
+                        "stepover": 0.4,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 12.566370614359176,
+                        "v_f": 200,
+                        "v_f_leadIn": 200,
+                        "v_f_leadOut": 200,
+                        "v_f_plunge": 133,
+                        "v_f_ramp": 200,
+                        "v_f_transition": 1500
+                    }
+                ]
+            },
+            "type": "chamfer mill",
+            "unit": "millimeters",
+            "vendor": "SpeTool"
+        },
+        {
+            "BMC": "ti coated",
+            "description": "CNCFraises COMPRESSION 2 FL 4MM DIA x 22MM CL x 4MM SHANK x 55MM",
+            "expressions": {
+                "tool_bodyLength": "37 mm",
+                "tool_comment": "",
+                "tool_description": "'CNCFraises COMPRESSION 2 FL 4MM DIA x 22MM CL x 4MM SHANK x 55MM'",
+                "tool_diameter": "4 mm",
+                "tool_fluteLength": "22 mm",
+                "tool_manualToolChange": "true",
+                "tool_material": "'ti coated'",
+                "tool_number": "99999",
+                "tool_overallLength": "55 mm",
+                "tool_productId": "'FC2DCOMP422EB'",
+                "tool_productLink": "'https://www.cncfraises.fr/fraises-2-dents-compression-carbure-queue-4-mm/493-fraise-2-dents-compression-4-mm-longueur-utile-22mm.html'",
+                "tool_shaftDiameter": "4 mm",
+                "tool_shoulderLength": "29 mm",
+                "tool_unit": "'millimeters'",
+                "tool_vendor": "'CNCFraises'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 37,
+                "LCF": 22,
+                "NOF": 2,
+                "OAL": 55,
+                "SFDM": 4,
+                "assemblyGaugeLength": 37,
+                "shoulder-diameter": 4,
+                "shoulder-length": 29
+            },
+            "guid": "643336e6-3344-4da9-880b-525418d02797",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 99999,
+                "length-offset": 99999,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 99999,
+                "turret": 0
+            },
+            "product-id": "FC2DCOMP422EB",
+            "product-link": "https://www.cncfraises.fr/fraises-2-dents-compression-carbure-queue-4-mm/493-fraise-2-dents-compression-4-mm-longueur-utile-22mm.html",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "2400 mmpm",
+                            "tool_feedPlunge": "800 mmpm",
+                            "tool_feedRamp": "800 mmpm",
+                            "tool_spindleSpeed": "18000 rpm",
+                            "tool_stepdown": "4 mm",
+                            "tool_stepover": "1.6 mm"
+                        },
+                        "f_n": 0.044444444444444446,
+                        "f_z": 0.06666666666666667,
+                        "guid": "2f3764c5-0204-414d-be85-a94a861755f6",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "default",
+                        "ramp-angle": 2,
+                        "stepdown": 4,
+                        "stepover": 1.6,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 226.1946710584651,
+                        "v_f": 2400,
+                        "v_f_leadIn": 2400,
+                        "v_f_leadOut": 2400,
+                        "v_f_plunge": 800,
+                        "v_f_ramp": 800,
+                        "v_f_transition": 2400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "CNCFraises"
+        },
+        {
+            "BMC": "carbide",
+            "description": "SpeTool 0.25mm Radius x 4mm Shank x 20.5mm Cutting Length x 50mm Long 2 Flute SC TiAlN Coated Upcut Router Bits",
+            "expressions": {
+                "tool_bodyLength": "35 mm",
+                "tool_description": "'SpeTool 0.25mm Radius x 4mm Shank x 20.5mm Cutting Length x 50mm Long 2 Flute SC TiAlN Coated Upcut Router Bits'",
+                "tool_diameter": "0.5 mm",
+                "tool_fluteLength": "20.5 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "99999",
+                "tool_overallLength": "50 mm",
+                "tool_productId": "'R0.25-D4'",
+                "tool_productLink": "'https://spetools.com/en-eu/products/spetool-4-stuck-3d-gravur'",
+                "tool_shaftDiameter": "4 mm",
+                "tool_shoulderLength": "20.5 mm"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 0.5,
+                "HAND": true,
+                "LB": 35,
+                "LCF": 20.5,
+                "NOF": 2,
+                "OAL": 50,
+                "RE": 0.249999999999991,
+                "SFDM": 4,
+                "TA": 5.12,
+                "assemblyGaugeLength": 35,
+                "shoulder-diameter": 4.173578661530987,
+                "shoulder-length": 20.5
+            },
+            "guid": "b9647948-56a9-46b8-a862-3c526e4c309d",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 99999,
+                "length-offset": 99999,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 99999,
+                "turret": 0
+            },
+            "product-id": "R0.25-D4",
+            "product-link": "https://spetools.com/en-eu/products/spetool-4-stuck-3d-gravur",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.00508,
+                        "f_z": 0.00762,
+                        "guid": "8feafff5-dd52-41a3-865d-57b25f684813",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "ALUMINUM/COPPER/BRASS",
+                        "ramp-angle": 2,
+                        "stepdown": 0.500000000000007,
+                        "stepover": 0.199999999999987,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 28.274333882308134,
+                        "v_f": 274.32,
+                        "v_f_leadIn": 274.32,
+                        "v_f_leadOut": 274.32,
+                        "v_f_plunge": 91.44,
+                        "v_f_ramp": 91.44,
+                        "v_f_transition": 274.32
+                    },
+                    {
+                        "expressions": {
+                            "tool_coolant": "'air'"
+                        },
+                        "f_n": 0.011853333333333334,
+                        "f_z": 0.01778,
+                        "guid": "54365e8c-5bd0-4160-8112-7b5e410ace14",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "WOOD/MDF/SIGN-FOAM",
+                        "ramp-angle": 2,
+                        "stepdown": 0.500000000000007,
+                        "stepover": 0.199999999999987,
+                        "tool-coolant": "air",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 28.274333882308134,
+                        "v_f": 640.08,
+                        "v_f_leadIn": 640.08,
+                        "v_f_leadOut": 640.08,
+                        "v_f_plunge": 213.36,
+                        "v_f_ramp": 213.36,
+                        "v_f_transition": 640.08
+                    }
+                ]
+            },
+            "tapered-type": "tapered_ball",
+            "type": "tapered mill",
+            "unit": "millimeters",
+            "vendor": "SpeTool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "CUT - SC O FLUTE 3.175MM DIA x 15MM CL x 3.175MM SHANK x 38.1MM",
+            "expressions": {
+                "tool_bodyLength": "25 mm",
+                "tool_description": "'CUT - SC O FLUTE 3.175MM DIA x 15MM CL x 3.175MM SHANK x 38.1MM'",
+                "tool_diameter": "3.175 mm",
+                "tool_fluteLength": "15 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "3",
+                "tool_numberOfFlutes": "1",
+                "tool_overallLength": "38.1 mm",
+                "tool_productId": "'SP1F-D3.1-L15'",
+                "tool_productLink": "'https://spetools.com/en-eu/products/spetool-eu-sc-o-flute-3-175mm-dia-x-15mm-cl-x-3-175mm-shank-x-38-1mm-ovl-router-bit'",
+                "tool_shaftDiameter": "3.175 mm",
+                "tool_shoulderLength": "15 mm"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 25,
+                "LCF": 15,
+                "NOF": 1,
+                "OAL": 38.1,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 25,
+                "shoulder-diameter": 3.175,
+                "shoulder-length": 15
+            },
+            "guid": "da884554-e331-4651-8381-018d93dd76be",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 3,
+                "length-offset": 3,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 3,
+                "turret": 0
+            },
+            "product-id": "SP1F-D3.1-L15",
+            "product-link": "https://spetools.com/en-eu/products/spetool-eu-sc-o-flute-3-175mm-dia-x-15mm-cl-x-3-175mm-shank-x-38-1mm-ovl-router-bit",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "400 mmpm",
+                            "tool_feedPlunge": "133 mmpm",
+                            "tool_feedRamp": "tool_feedCutting",
+                            "tool_spindleSpeed": "5000 rpm",
+                            "tool_stepdown": "1 mm",
+                            "tool_stepover": "1.6 mm"
+                        },
+                        "f_n": 0.0266,
+                        "f_z": 0.08,
+                        "guid": "9df5d92d-11ef-4ab9-b454-eadf5195a6d4",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Acrylic",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 1.6,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 49.87278337573795,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 400,
+                        "v_f_plunge": 133,
+                        "v_f_ramp": 400,
+                        "v_f_transition": 400
+                    },
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "133 mmpm",
+                            "tool_feedPlunge": "33 mmpm",
+                            "tool_feedRamp": "tool_feedCutting",
+                            "tool_spindleSpeed": "500 rpm",
+                            "tool_stepdown": "1 mm",
+                            "tool_stepover": "1.6 mm"
+                        },
+                        "f_n": 0.066,
+                        "f_z": 0.266,
+                        "guid": "6dc7730d-81ea-4087-b2df-d2bba265f103",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 500,
+                        "n_ramp": 500,
+                        "name": "Acrylic - Holes",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 1.6,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 4.987278337573797,
+                        "v_f": 133,
+                        "v_f_leadIn": 133,
+                        "v_f_leadOut": 133,
+                        "v_f_plunge": 33,
+                        "v_f_ramp": 133,
+                        "v_f_transition": 133
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "SpeTool"
+        },
+        {
+            "BMC": "hss",
+            "description": "SpeTool SC COMPRESSION 2 FL 4MM DIA x 22MM CL x 4MM SHANK x 50MM OVL ROUTER BIT",
+            "expressions": {
+                "tool_bodyLength": "30 mm",
+                "tool_description": "'SpeTool SC COMPRESSION 2 FL 4MM DIA x 22MM CL x 4MM SHANK x 50MM OVL ROUTER BIT'",
+                "tool_diameter": "4 mm",
+                "tool_fluteLength": "22 mm",
+                "tool_manualToolChange": "true",
+                "tool_material": "'hss'",
+                "tool_number": "99999",
+                "tool_overallLength": "50 mm",
+                "tool_productId": "'SP2FC-D4-L22'",
+                "tool_productLink": "'https://spetools.com/en-eu/products/spetool-eu-sc-compression-2-fl-4mm-dia-x-22mm-cl-x-4mm-shank-x-50mm-ovl-router-bit'",
+                "tool_shaftDiameter": "4 mm",
+                "tool_shoulderLength": "22 mm",
+                "tool_unit": "'millimeters'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 22,
+                "NOF": 2,
+                "OAL": 50,
+                "SFDM": 4,
+                "assemblyGaugeLength": 30,
+                "shoulder-diameter": 4,
+                "shoulder-length": 22
+            },
+            "guid": "2bde1dea-040b-4079-a47c-4df159d6ebf1",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 99999,
+                "length-offset": 99999,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 99999,
+                "turret": 0
+            },
+            "product-id": "SP2FC-D4-L22",
+            "product-link": "https://spetools.com/en-eu/products/spetool-eu-sc-compression-2-fl-4mm-dia-x-22mm-cl-x-4mm-shank-x-50mm-ovl-router-bit",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "2400 mmpm",
+                            "tool_feedPlunge": "800 mmpm",
+                            "tool_feedRamp": "800 mmpm",
+                            "tool_spindleSpeed": "18000 rpm",
+                            "tool_stepdown": "4 mm",
+                            "tool_stepover": "1.6 mm"
+                        },
+                        "f_n": 0.044444444444444446,
+                        "f_z": 0.06666666666666667,
+                        "guid": "2f3764c5-0204-414d-be85-a94a861755f6",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "default",
+                        "ramp-angle": 2,
+                        "stepdown": 4,
+                        "stepover": 1.6,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 226.1946710584651,
+                        "v_f": 2400,
+                        "v_f_leadIn": 2400,
+                        "v_f_leadOut": 2400,
+                        "v_f_plunge": 800,
+                        "v_f_ramp": 800,
+                        "v_f_transition": 2400
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "SpeTool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "CUT - DLC O FLUTE 4MM DIA x 32MM CL x 4MM SHANK x 65MM",
+            "expressions": {
+                "tool_bodyLength": "47 mm",
+                "tool_description": "'CUT - DLC O FLUTE 4MM DIA x 32MM CL x 4MM SHANK x 65MM'",
+                "tool_diameter": "4 mm",
+                "tool_fluteLength": "32 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "4",
+                "tool_numberOfFlutes": "1",
+                "tool_overallLength": "65 mm",
+                "tool_productId": "'FC1DA4032DLC'",
+                "tool_productLink": "'https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-alu-pmma-queue-4-mm/385-fraise-1-dent-dlc-carbure-diametre-de-coupe-4-mm-longueur-utile-32-mm-queue-4-mm.html'",
+                "tool_shaftDiameter": "4 mm",
+                "tool_shoulderLength": "38 mm",
+                "tool_vendor": "'CNCFraises'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 47,
+                "LCF": 32,
+                "NOF": 1,
+                "OAL": 65,
+                "SFDM": 4,
+                "assemblyGaugeLength": 47,
+                "shoulder-diameter": 4,
+                "shoulder-length": 38
+            },
+            "guid": "a5ea56ab-fe69-4592-8bf7-6f25655bbe64",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 4,
+                "length-offset": 4,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 4,
+                "turret": 0
+            },
+            "product-id": "FC1DA4032DLC",
+            "product-link": "https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-alu-pmma-queue-4-mm/385-fraise-1-dent-dlc-carbure-diametre-de-coupe-4-mm-longueur-utile-32-mm-queue-4-mm.html",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "400 mmpm",
+                            "tool_feedPlunge": "133 mmpm",
+                            "tool_feedRamp": "tool_feedCutting",
+                            "tool_spindleSpeed": "5000 rpm",
+                            "tool_stepdown": "1 mm",
+                            "tool_stepover": "1.6 mm"
+                        },
+                        "f_n": 0.0266,
+                        "f_z": 0.08,
+                        "guid": "2f3764c5-0204-414d-be85-a94a861755f6",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Acrylic",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 1.6,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 62.831853071795855,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 400,
+                        "v_f_plunge": 133,
+                        "v_f_ramp": 400,
+                        "v_f_transition": 400
+                    },
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "133 mmpm",
+                            "tool_feedPlunge": "33 mmpm",
+                            "tool_feedRamp": "tool_feedCutting",
+                            "tool_spindleSpeed": "500 rpm",
+                            "tool_stepdown": "1 mm",
+                            "tool_stepover": "1.6 mm"
+                        },
+                        "f_n": 0.066,
+                        "f_z": 0.266,
+                        "guid": "07e41276-4490-4a5b-b814-d3eb5aaa2694",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 500,
+                        "n_ramp": 500,
+                        "name": "Acrylic - Holes",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 1.6,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 6.283185307179588,
+                        "v_f": 133,
+                        "v_f_leadIn": 133,
+                        "v_f_leadOut": 133,
+                        "v_f_plunge": 33,
+                        "v_f_ramp": 133,
+                        "v_f_transition": 133
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "CNCFraises"
+        },
+        {
+            "BMC": "carbide",
+            "description": "CUT - DLC O FLUTE 6MM DIA x 22MM CL x 6MM SHANK x 50MM",
+            "expressions": {
+                "tool_bodyLength": "32 mm",
+                "tool_description": "'CUT - DLC O FLUTE 6MM DIA x 22MM CL x 6MM SHANK x 50MM'",
+                "tool_diameter": "6 mm",
+                "tool_fluteLength": "22 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "6",
+                "tool_numberOfFlutes": "1",
+                "tool_overallLength": "50 mm",
+                "tool_productId": "'FC1DA622DLC'",
+                "tool_productLink": "'https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-special-plexiglas-queue-6-mm/381-fraise-1-dent-plexiglas-dlc-diametre-de-coupe-6-mm-longueur-utile-22-mm-queue-6-mm.html'",
+                "tool_shaftDiameter": "6 mm",
+                "tool_shoulderLength": "28 mm",
+                "tool_vendor": "'CNCFraises'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 6,
+                "HAND": true,
+                "LB": 32,
+                "LCF": 22,
+                "NOF": 1,
+                "OAL": 50,
+                "SFDM": 6,
+                "assemblyGaugeLength": 32,
+                "shoulder-diameter": 6,
+                "shoulder-length": 28
+            },
+            "guid": "fb20bbe0-e287-4dcf-a2f0-51e8b56e5672",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 6,
+                "length-offset": 6,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 6,
+                "turret": 0
+            },
+            "product-id": "FC1DA622DLC",
+            "product-link": "https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-special-plexiglas-queue-6-mm/381-fraise-1-dent-plexiglas-dlc-diametre-de-coupe-6-mm-longueur-utile-22-mm-queue-6-mm.html",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "400 mmpm",
+                            "tool_feedPlunge": "133 mmpm",
+                            "tool_feedRamp": "tool_feedCutting",
+                            "tool_spindleSpeed": "5000 rpm",
+                            "tool_stepdown": "1 mm",
+                            "tool_stepover": "2.4 mm"
+                        },
+                        "f_n": 0.0266,
+                        "f_z": 0.08,
+                        "guid": "2f3764c5-0204-414d-be85-a94a861755f6",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 5000,
+                        "n_ramp": 5000,
+                        "name": "Acrylic",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 2.4,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 94.2477796076938,
+                        "v_f": 400,
+                        "v_f_leadIn": 400,
+                        "v_f_leadOut": 400,
+                        "v_f_plunge": 133,
+                        "v_f_ramp": 400,
+                        "v_f_transition": 400
+                    },
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "133 mmpm",
+                            "tool_feedPlunge": "33 mmpm",
+                            "tool_feedRamp": "tool_feedCutting",
+                            "tool_spindleSpeed": "500 rpm",
+                            "tool_stepdown": "1 mm",
+                            "tool_stepover": "1.6 mm"
+                        },
+                        "f_n": 0.066,
+                        "f_z": 0.266,
+                        "guid": "da25972f-10bf-4ee2-bd07-ee03abdcde8e",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 500,
+                        "n_ramp": 500,
+                        "name": "Acrylic - Holes",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 1.6,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 9.42477796076938,
+                        "v_f": 133,
+                        "v_f_leadIn": 133,
+                        "v_f_leadOut": 133,
+                        "v_f_plunge": 33,
+                        "v_f_ramp": 133,
+                        "v_f_transition": 133
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "CNCFraises"
+        },
+        {
+            "BMC": "carbide",
+            "description": "POCKET - Spiral SC 2 FL 4MM DIA - 4MM SHANK x 22MM CL x 50MM",
+            "expressions": {
+                "tool_bodyLength": "30 mm",
+                "tool_description": "'POCKET - Spiral SC 2 FL 4MM DIA - 4MM SHANK x 22MM CL x 50MM'",
+                "tool_diameter": "4 mm",
+                "tool_fluteLength": "22 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "324",
+                "tool_overallLength": "50 mm",
+                "tool_productId": "'SP-D4-L22-U'",
+                "tool_productLink": "'https://spetools.com/en-eu/products/spetool-eu-sc-spiral-plunge-4mm-dia-x-4mm-shank-x-22mm-cutting-length-x-50mm-long-2-flute-up-cut-router-bit'",
+                "tool_shaftDiameter": "4 mm",
+                "tool_shoulderLength": "22 mm",
+                "tool_unit": "'millimeters'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 22,
+                "NOF": 2,
+                "OAL": 50,
+                "SFDM": 4,
+                "assemblyGaugeLength": 30,
+                "shoulder-diameter": 4,
+                "shoulder-length": 22
+            },
+            "guid": "3f54a170-ecfc-40c9-aaed-e3ad2417b730",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 324,
+                "length-offset": 324,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 324,
+                "turret": 0
+            },
+            "product-id": "SP-D4-L22-U",
+            "product-link": "https://spetools.com/en-eu/products/spetool-eu-sc-spiral-plunge-4mm-dia-x-4mm-shank-x-22mm-cutting-length-x-50mm-long-2-flute-up-cut-router-bit",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "200 mmpm",
+                            "tool_feedPlunge": "133 mmpm",
+                            "tool_feedRamp": "tool_feedCutting",
+                            "tool_feedTransition": "tool_feedCutting",
+                            "tool_spindleSpeed": "500 rpm",
+                            "tool_stepdown": "1 mm",
+                            "tool_stepover": "1.4 mm"
+                        },
+                        "f_n": 0.266,
+                        "f_z": 0.2,
+                        "guid": "8b897593-4b05-483d-9635-a4246d922927",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 500,
+                        "n_ramp": 500,
+                        "name": "Acrylic",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 1.4,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 6.283185307179588,
+                        "v_f": 200,
+                        "v_f_leadIn": 200,
+                        "v_f_leadOut": 200,
+                        "v_f_plunge": 133,
+                        "v_f_ramp": 200,
+                        "v_f_transition": 200
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "SpeTool"
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "DRILL - 3mm Spot Drill",
+            "expressions": {
+                "tool_bodyLength": "43 mm",
+                "tool_description": "'DRILL - 3mm Spot Drill'",
+                "tool_fluteLength": "38 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "2003",
+                "tool_numberOfFlutes": "2",
+                "tool_overallLength": "60.30 mm",
+                "tool_shoulderLength": "38 mm"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 3,
+                "HAND": true,
+                "LB": 43,
+                "LCF": 38,
+                "NOF": 2,
+                "OAL": 60.3,
+                "SFDM": 3,
+                "SIG": 90,
+                "assemblyGaugeLength": 43,
+                "shoulder-length": 38,
+                "tip-diameter": 0
+            },
+            "guid": "be3fd916-eddc-4e29-9167-687e09344542",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 2003,
+                "length-offset": 2003,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 2003,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "SAMPLE preset for drilling with HSS drills in Titanium",
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "200 mm/min",
+                            "tool_feedPlunge": "100 mm/min",
+                            "tool_feedRamp": "200 mmpm",
+                            "tool_feedRetract": "100 mm/min",
+                            "tool_spindleSpeed": "1000 rpm",
+                            "tool_useFeedPerRevolution": "false"
+                        },
+                        "f_z": 0.1,
+                        "guid": "5e3286ed-7638-4b1e-a2a0-7d15bb21487c",
+                        "material": {
+                            "category": "metal",
+                            "query": "Titanium",
+                            "use-hardness": false
+                        },
+                        "n": 1000,
+                        "name": "FAILED - Acrylic",
+                        "tool-coolant": "suction",
+                        "use-feed-per-revolution": false,
+                        "v_c": 9.42477796076938,
+                        "v_f": 200,
+                        "v_f_leadIn": 200,
+                        "v_f_leadOut": 200,
+                        "v_f_plunge": 100,
+                        "v_f_ramp": 200,
+                        "v_f_retract": 100,
+                        "v_f_transition": 200
+                    }
+                ]
+            },
+            "type": "spot drill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "DRILL - 4mm Spot Drill",
+            "expressions": {
+                "tool_bodyLength": "56 mm",
+                "tool_description": "'DRILL - 4mm Spot Drill'",
+                "tool_fluteLength": "44 mm",
+                "tool_number": "2004",
+                "tool_numberOfFlutes": "2",
+                "tool_overallLength": "73.50 mm",
+                "tool_shoulderLength": "44 mm"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 56,
+                "LCF": 44,
+                "NOF": 2,
+                "OAL": 73.5,
+                "SFDM": 4,
+                "SIG": 90,
+                "assemblyGaugeLength": 56,
+                "shoulder-length": 44,
+                "tip-diameter": 0
+            },
+            "guid": "b3050039-5a20-4a3a-b028-aa2fc008ced2",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 2004,
+                "length-offset": 2004,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 2004,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "SAMPLE preset for drilling with HSS drills in Titanium",
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "200 mm/min",
+                            "tool_feedPlunge": "100 mm/min",
+                            "tool_feedRamp": "200 mmpm",
+                            "tool_feedRetract": "100 mm/min",
+                            "tool_spindleSpeed": "1000 rpm",
+                            "tool_useFeedPerRevolution": "false"
+                        },
+                        "f_z": 0.1,
+                        "guid": "ff202466-55a7-49fb-ac85-fdccd469cb9c",
+                        "material": {
+                            "category": "metal",
+                            "query": "Titanium",
+                            "use-hardness": false
+                        },
+                        "n": 1000,
+                        "name": "FAILED - Acrylic",
+                        "tool-coolant": "suction",
+                        "use-feed-per-revolution": false,
+                        "v_c": 12.566370614359176,
+                        "v_f": 200,
+                        "v_f_leadIn": 200,
+                        "v_f_leadOut": 200,
+                        "v_f_plunge": 100,
+                        "v_f_ramp": 200,
+                        "v_f_retract": 100,
+                        "v_f_transition": 200
+                    }
+                ]
+            },
+            "type": "spot drill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "unspecified",
+            "GRADE": "generic",
+            "description": "DRILL - 6mm Spot Drill",
+            "expressions": {
+                "tool_bodyLength": "72 mm",
+                "tool_description": "'DRILL - 6mm Spot Drill'",
+                "tool_fluteLength": "61 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "2006",
+                "tool_numberOfFlutes": "2",
+                "tool_overallLength": "88.50 mm",
+                "tool_shoulderLength": "61 mm"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 6,
+                "HAND": true,
+                "LB": 72,
+                "LCF": 61,
+                "NOF": 2,
+                "OAL": 88.5,
+                "SFDM": 6,
+                "SIG": 90,
+                "assemblyGaugeLength": 72,
+                "shoulder-length": 61,
+                "tip-diameter": 0
+            },
+            "guid": "2ce63281-f532-46cb-96c3-a2a6cdf3d255",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 2006,
+                "length-offset": 2006,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 2006,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "SAMPLE preset for drilling with HSS drills in Titanium",
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "200 mm/min",
+                            "tool_feedPlunge": "100 mm/min",
+                            "tool_feedRamp": "200 mmpm",
+                            "tool_feedRetract": "100 mm/min",
+                            "tool_spindleSpeed": "1000 rpm",
+                            "tool_useFeedPerRevolution": "false"
+                        },
+                        "f_z": 0.1,
+                        "guid": "efbe1595-16f9-42a8-abab-eda502af83c9",
+                        "material": {
+                            "category": "metal",
+                            "query": "Titanium",
+                            "use-hardness": false
+                        },
+                        "n": 1000,
+                        "name": "FAILED - Acrylic",
+                        "tool-coolant": "suction",
+                        "use-feed-per-revolution": false,
+                        "v_c": 18.84955592153876,
+                        "v_f": 200,
+                        "v_f_leadIn": 200,
+                        "v_f_leadOut": 200,
+                        "v_f_plunge": 100,
+                        "v_f_ramp": 200,
+                        "v_f_retract": 100,
+                        "v_f_transition": 200
+                    }
+                ]
+            },
+            "type": "spot drill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "carbide",
+            "description": "DRILL - SC O FLUTE 3.175MM DIA x 15MM CL x 3.175MM SHANK x 38.1MM",
+            "expressions": {
+                "tool_bodyLength": "25 mm",
+                "tool_comment": "'2 DRILL - 0 HOLES - DIAM MM'",
+                "tool_description": "'DRILL - SC O FLUTE 3.175MM DIA x 15MM CL x 3.175MM SHANK x 38.1MM'",
+                "tool_diameter": "3.175 mm",
+                "tool_fluteLength": "15 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "203",
+                "tool_numberOfFlutes": "1",
+                "tool_overallLength": "38.1 mm",
+                "tool_productId": "'SP1F-D3.1-L15'",
+                "tool_productLink": "'https://spetools.com/en-eu/products/spetool-eu-sc-o-flute-3-175mm-dia-x-15mm-cl-x-3-175mm-shank-x-38-1mm-ovl-router-bit'",
+                "tool_shaftDiameter": "3.175 mm",
+                "tool_shoulderLength": "15 mm"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 25,
+                "LCF": 15,
+                "NOF": 1,
+                "OAL": 38.1,
+                "SFDM": 3.175,
+                "SIG": 118,
+                "assemblyGaugeLength": 25,
+                "shoulder-length": 15
+            },
+            "guid": "891ff259-ddf6-4af2-8ae7-e132da3ef922",
+            "post-process": {
+                "break-control": false,
+                "comment": "2 DRILL - 0 HOLES - DIAM MM",
+                "diameter-offset": 203,
+                "length-offset": 203,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 203,
+                "turret": 0
+            },
+            "product-id": "SP1F-D3.1-L15",
+            "product-link": "https://spetools.com/en-eu/products/spetool-eu-sc-o-flute-3-175mm-dia-x-15mm-cl-x-3-175mm-shank-x-38-1mm-ovl-router-bit",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedPlunge": "133 mmpm",
+                            "tool_feedRetract": "33 mm/min",
+                            "tool_spindleSpeed": "500 rpm"
+                        },
+                        "guid": "9df5d92d-11ef-4ab9-b454-eadf5195a6d4",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 500,
+                        "name": "Acrylic",
+                        "tool-coolant": "suction",
+                        "use-feed-per-revolution": false,
+                        "v_c": 4.987278337573797,
+                        "v_f_plunge": 133,
+                        "v_f_retract": 33
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "millimeters",
+            "vendor": "SpeTool"
+        },
+        {
+            "BMC": "carbide",
+            "description": "DRILL - DLC O FLUTE 4MM DIA x 32MM CL x 4MM SHANK x 65MM",
+            "expressions": {
+                "tool_bodyLength": "47 mm",
+                "tool_comment": "'2 DRILL - 0 HOLES - DIAM MM'",
+                "tool_description": "'DRILL - DLC O FLUTE 4MM DIA x 32MM CL x 4MM SHANK x 65MM'",
+                "tool_diameter": "4 mm",
+                "tool_fluteLength": "32 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "204",
+                "tool_numberOfFlutes": "1",
+                "tool_overallLength": "65 mm",
+                "tool_productId": "'FC1DA4032DLC'",
+                "tool_productLink": "'https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-alu-pmma-queue-4-mm/385-fraise-1-dent-dlc-carbure-diametre-de-coupe-4-mm-longueur-utile-32-mm-queue-4-mm.html'",
+                "tool_shaftDiameter": "4 mm",
+                "tool_shoulderLength": "38 mm",
+                "tool_vendor": "'CNCFraises'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 47,
+                "LCF": 32,
+                "NOF": 1,
+                "OAL": 65,
+                "SFDM": 4,
+                "SIG": 118,
+                "assemblyGaugeLength": 47,
+                "shoulder-length": 38
+            },
+            "guid": "8c796a55-7711-4a01-ac87-0170d2660952",
+            "post-process": {
+                "break-control": false,
+                "comment": "2 DRILL - 0 HOLES - DIAM MM",
+                "diameter-offset": 204,
+                "length-offset": 204,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 204,
+                "turret": 0
+            },
+            "product-id": "FC1DA4032DLC",
+            "product-link": "https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-alu-pmma-queue-4-mm/385-fraise-1-dent-dlc-carbure-diametre-de-coupe-4-mm-longueur-utile-32-mm-queue-4-mm.html",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedPlunge": "133 mmpm",
+                            "tool_feedRetract": "33 mm/min",
+                            "tool_spindleSpeed": "500 rpm"
+                        },
+                        "guid": "26c76325-4b23-4dc2-a25c-35e899571fb6",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 500,
+                        "name": "Acrylic",
+                        "tool-coolant": "suction",
+                        "use-feed-per-revolution": false,
+                        "v_c": 6.283185307179588,
+                        "v_f_plunge": 133,
+                        "v_f_retract": 33
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "millimeters",
+            "vendor": "CNCFraises"
+        },
+        {
+            "BMC": "carbide",
+            "description": "DRILL - DLC O FLUTE 6MM DIA x 22MM CL x 6MM SHANK x 50MM",
+            "expressions": {
+                "tool_bodyLength": "32 mm",
+                "tool_comment": "'2 DRILL - 0 HOLES - DIAM MM'",
+                "tool_description": "'DRILL - DLC O FLUTE 6MM DIA x 22MM CL x 6MM SHANK x 50MM'",
+                "tool_diameter": "6 mm",
+                "tool_fluteLength": "22 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "206",
+                "tool_numberOfFlutes": "1",
+                "tool_overallLength": "50 mm",
+                "tool_productId": "'FC1DA622DLC'",
+                "tool_productLink": "'https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-special-plexiglas-queue-6-mm/381-fraise-1-dent-plexiglas-dlc-diametre-de-coupe-6-mm-longueur-utile-22-mm-queue-6-mm.html'",
+                "tool_shaftDiameter": "6 mm",
+                "tool_shoulderLength": "28 mm",
+                "tool_vendor": "'CNCFraises'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 6,
+                "HAND": true,
+                "LB": 32,
+                "LCF": 22,
+                "NOF": 1,
+                "OAL": 50,
+                "SFDM": 6,
+                "SIG": 118,
+                "assemblyGaugeLength": 32,
+                "shoulder-length": 28
+            },
+            "guid": "88f935ee-f081-40f9-b785-0b0fb1328853",
+            "post-process": {
+                "break-control": false,
+                "comment": "2 DRILL - 0 HOLES - DIAM MM",
+                "diameter-offset": 206,
+                "length-offset": 206,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 206,
+                "turret": 0
+            },
+            "product-id": "FC1DA622DLC",
+            "product-link": "https://www.cncfraises.fr/fraises-1-dent-dlc-carbure-special-plexiglas-queue-6-mm/381-fraise-1-dent-plexiglas-dlc-diametre-de-coupe-6-mm-longueur-utile-22-mm-queue-6-mm.html",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedPlunge": "133 mmpm",
+                            "tool_feedRetract": "33 mm/min",
+                            "tool_spindleSpeed": "500 rpm"
+                        },
+                        "guid": "64143857-f0d6-46ce-974b-d3ed18d545ed",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 500,
+                        "name": "Acrylic",
+                        "tool-coolant": "suction",
+                        "use-feed-per-revolution": false,
+                        "v_c": 9.42477796076938,
+                        "v_f_plunge": 133,
+                        "v_f_retract": 33
+                    }
+                ]
+            },
+            "type": "drill",
+            "unit": "millimeters",
+            "vendor": "CNCFraises"
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "POCKET -  3 FL 4MM DIA x 9MM CL x 4MM SHANK x 50MM",
+            "expressions": {
+                "tool_bodyLength": "27 mm",
+                "tool_comment": "'3 POCKET - NUMBER OF FLUTES - DIAM MM'",
+                "tool_description": "'POCKET -  3 FL 4MM DIA x 9MM CL x 4MM SHANK x 50MM'",
+                "tool_fluteLength": "9 mm",
+                "tool_manualToolChange": "true",
+                "tool_number": "334",
+                "tool_numberOfFlutes": "3",
+                "tool_overallLength": "50 mm",
+                "tool_productLink": "'https://eu.snapmaker.com/collections/3d-printing-parts-accessories/products/cnc-bits-4mm-shank-3-bits-with-spindle-collet'",
+                "tool_shoulderLength": "12 mm",
+                "tool_vendor": "'Snapmaker'"
+            },
+            "geometry": {
+                "CSP": false,
+                "DC": 4,
+                "HAND": true,
+                "LB": 27,
+                "LCF": 9,
+                "NOF": 3,
+                "OAL": 50,
+                "SFDM": 4,
+                "assemblyGaugeLength": 27,
+                "shoulder-diameter": 4,
+                "shoulder-length": 12
+            },
+            "guid": "4ffc9d3a-3110-4940-931e-8614cad6e2ce",
+            "post-process": {
+                "break-control": false,
+                "comment": "3 POCKET - NUMBER OF FLUTES - DIAM MM",
+                "diameter-offset": 334,
+                "length-offset": 334,
+                "live": true,
+                "manual-tool-change": true,
+                "number": 334,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "https://eu.snapmaker.com/collections/3d-printing-parts-accessories/products/cnc-bits-4mm-shank-3-bits-with-spindle-collet",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'",
+                            "tool_feedCutting": "200 mmpm",
+                            "tool_feedPlunge": "133 mmpm",
+                            "tool_feedRamp": "tool_feedCutting",
+                            "tool_feedTransition": "tool_feedCutting",
+                            "tool_spindleSpeed": "500 rpm",
+                            "tool_stepdown": "1 mm",
+                            "tool_stepover": "1.4 mm"
+                        },
+                        "f_n": 0.266,
+                        "f_z": 0.13333333333333333,
+                        "guid": "5ec3cf0b-45b3-423e-be9e-869824d980f1",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 500,
+                        "n_ramp": 500,
+                        "name": "FAILED - Acrylic",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 1.4,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 6.283185307179588,
+                        "v_f": 200,
+                        "v_f_leadIn": 200,
+                        "v_f_leadOut": 200,
+                        "v_f_plunge": 133,
+                        "v_f_ramp": 200,
+                        "v_f_transition": 200
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": "Snapmaker"
+        }
+    ],
+    "version": 35
+}

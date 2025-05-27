@@ -1,0 +1,751 @@
+{
+    "data": [
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "Double Flute, 3.175mm Flat end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 24,
+                "NOF": 2,
+                "OAL": 45,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 58,
+                "shoulder-diameter": 3.175,
+                "shoulder-length": 25
+            },
+            "guid": "89a36aca-d57a-4a05-bad0-18422b9401d5",
+            "holder": {
+                "description": "ER11 Holder",
+                "gaugeLength": 28,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 13,
+                        "lower-diameter": 19,
+                        "upper-diameter": 19
+                    },
+                    {
+                        "height": 10,
+                        "lower-diameter": 14,
+                        "upper-diameter": 14
+                    },
+                    {
+                        "height": 5,
+                        "lower-diameter": 16,
+                        "upper-diameter": 16
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.011111111111111112,
+                        "f_z": 0.008333333333333333,
+                        "guid": "d6a393e6-0ea6-45c0-a1e1-3fcf87694b3d",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Default",
+                        "ramp-angle": 2,
+                        "stepdown": 0.5,
+                        "stepover": 1.5,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 179.54202015265668,
+                        "v_f": 300,
+                        "v_f_leadIn": 300,
+                        "v_f_leadOut": 1500,
+                        "v_f_plunge": 200,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 300
+                    },
+                    {
+                        "description": null,
+                        "f_n": 0.011111111111111112,
+                        "f_z": 0.03333333333333333,
+                        "guid": "f219d70d-1bda-4d75-b2c1-b28cbda12c24",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Hard Wood",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 1.5,
+                        "tool-coolant": "air",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 179.54202015265668,
+                        "v_f": 1200,
+                        "v_f_leadIn": 1200,
+                        "v_f_leadOut": 1500,
+                        "v_f_plunge": 200,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 1200
+                    },
+                    {
+                        "description": null,
+                        "f_n": 0.011111111111111112,
+                        "f_z": 0.04722222222222223,
+                        "guid": "d41336b9-3369-4c21-98a2-b55ffd43569f",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "HDF",
+                        "ramp-angle": 2,
+                        "stepdown": 1.5,
+                        "stepover": 0.5,
+                        "tool-coolant": "air",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 179.54202015265668,
+                        "v_f": 1700,
+                        "v_f_leadIn": 1700,
+                        "v_f_leadOut": 1500,
+                        "v_f_plunge": 200,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 1700
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "1.5mm Flat end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 1.5,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 12,
+                "NOF": 2,
+                "OAL": 38,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 92.8396,
+                "shoulder-diameter": 1.5,
+                "shoulder-length": 15
+            },
+            "guid": "976d2c8d-23e0-44de-8278-55e59234db47",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "gaugeLength": 2.474,
+                "guid": "e800051b-e2d6-4699-a2b6-dad6466a0a0c",
+                "last_modified": 1485790626152,
+                "product-id": "CAT40-ER32-2.35",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.148,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.836,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.176,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.57
+                    },
+                    {
+                        "height": 0.09,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.425,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.05,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.85
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.008333333333333333,
+                        "f_z": 0.008333333333333333,
+                        "guid": "dce7459a-af9a-4433-b92c-d4e544d896da",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Default",
+                        "ramp-angle": 2,
+                        "stepdown": 0.5,
+                        "stepover": 1.2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 84.8230016469244,
+                        "v_f": 300,
+                        "v_f_leadIn": 300,
+                        "v_f_leadOut": 1500,
+                        "v_f_plunge": 150,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 300
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "Single Flute, 3.175mm Flat end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 24,
+                "NOF": 1,
+                "OAL": 45,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 58,
+                "shoulder-diameter": 3.175,
+                "shoulder-length": 25
+            },
+            "guid": "c86d6b91-e156-44d8-b028-0cd972f1331d",
+            "holder": {
+                "description": "ER11 Holder",
+                "gaugeLength": 28,
+                "guid": "",
+                "product-id": "",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 13,
+                        "lower-diameter": 19,
+                        "upper-diameter": 19
+                    },
+                    {
+                        "height": 10,
+                        "lower-diameter": 14,
+                        "upper-diameter": 14
+                    },
+                    {
+                        "height": 5,
+                        "lower-diameter": 16,
+                        "upper-diameter": 16
+                    }
+                ],
+                "type": "holder",
+                "unit": "millimeters",
+                "vendor": ""
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": "",
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.016666666666666666,
+                        "f_z": 0.05555555555555555,
+                        "guid": "a62bddd4-7d5d-40c7-a089-3fbba08b3d02",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Acrylic",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 1.5,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 179.54202015265668,
+                        "v_f": 1000,
+                        "v_f_leadIn": 1000,
+                        "v_f_leadOut": 1500,
+                        "v_f_plunge": 300,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 1000
+                    }
+                ]
+            },
+            "type": "flat end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "GRADE": "Mill Generic",
+            "description": "3.175mm Ball end mill",
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 30,
+                "LCF": 16,
+                "NOF": 3,
+                "OAL": 38,
+                "SFDM": 3.175,
+                "assemblyGaugeLength": 92.8396,
+                "shoulder-diameter": 3.175,
+                "shoulder-length": 20
+            },
+            "guid": "fe36635a-83ff-477a-a0e2-79d4c6f43ff9",
+            "holder": {
+                "description": "Maritool CAT40-ER32-2.35",
+                "gaugeLength": 2.474,
+                "guid": "e800051b-e2d6-4699-a2b6-dad6466a0a0c",
+                "last_modified": 1485790626152,
+                "product-id": "CAT40-ER32-2.35",
+                "product-link": "",
+                "segments": [
+                    {
+                        "height": 0.148,
+                        "lower-diameter": 1.5,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.836,
+                        "lower-diameter": 1.97,
+                        "upper-diameter": 1.97
+                    },
+                    {
+                        "height": 0.176,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.57
+                    },
+                    {
+                        "height": 0.09,
+                        "lower-diameter": 1.57,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.425,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    },
+                    {
+                        "height": 0.05,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.85
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.442,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.145,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.118,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.215
+                    },
+                    {
+                        "height": 0.079,
+                        "lower-diameter": 2.215,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.143,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.502
+                    },
+                    {
+                        "height": 0.03,
+                        "lower-diameter": 2.502,
+                        "upper-diameter": 2.442
+                    },
+                    {
+                        "height": 0.125,
+                        "lower-diameter": 1.75,
+                        "upper-diameter": 1.75
+                    }
+                ],
+                "type": "holder",
+                "unit": "inches",
+                "vendor": "Maritool"
+            },
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "description": null,
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.016666666666666666,
+                        "f_z": 0.005555555555555556,
+                        "guid": "91f7c4c6-276e-4132-a5e3-87ece3e66b93",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Default",
+                        "ramp-angle": 2,
+                        "stepdown": 0.5,
+                        "stepover": 1.2,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 179.54202015265668,
+                        "v_f": 300,
+                        "v_f_leadIn": 300,
+                        "v_f_leadOut": 1500,
+                        "v_f_plunge": 300,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 300
+                    },
+                    {
+                        "description": null,
+                        "f_n": 0.011111111111111112,
+                        "f_z": 0.03148148148148148,
+                        "guid": "a8e5ee3c-7866-41a1-a327-7a8ad88e4cf6",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "HDF",
+                        "ramp-angle": 2,
+                        "stepdown": 1.5,
+                        "stepover": 0.5,
+                        "tool-coolant": "air",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 179.54202015265668,
+                        "v_f": 1700,
+                        "v_f_leadIn": 1700,
+                        "v_f_leadOut": 2000,
+                        "v_f_plunge": 200,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 1700
+                    },
+                    {
+                        "description": null,
+                        "f_n": 0.011111111111111112,
+                        "f_z": 0.022222222222222223,
+                        "guid": "c20a0143-6087-480c-8803-b1def35449bd",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Hard Wood",
+                        "ramp-angle": 2,
+                        "stepdown": 1,
+                        "stepover": 1.5,
+                        "tool-coolant": "air",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 179.54202015265668,
+                        "v_f": 1200,
+                        "v_f_leadIn": 1200,
+                        "v_f_leadOut": 2000,
+                        "v_f_plunge": 200,
+                        "v_f_ramp": 100,
+                        "v_f_transition": 1200
+                    }
+                ]
+            },
+            "type": "ball end mill",
+            "unit": "millimeters",
+            "vendor": ""
+        },
+        {
+            "BMC": "hss",
+            "description": "",
+            "geometry": {
+                "CSP": false,
+                "DC": 3.175,
+                "HAND": true,
+                "LB": 25,
+                "LCF": 20,
+                "NOF": 2,
+                "OAL": 50,
+                "SFDM": 3.175,
+                "TA": 10,
+                "assemblyGaugeLength": 25,
+                "shoulder-diameter": 3.175,
+                "shoulder-length": 20,
+                "tip-diameter": 0.3
+            },
+            "guid": "2b28d0af-e7be-4be2-b170-3a94a06b928b",
+            "post-process": {
+                "break-control": false,
+                "comment": "",
+                "diameter-offset": 1,
+                "length-offset": 1,
+                "live": true,
+                "manual-tool-change": false,
+                "number": 1,
+                "turret": 0
+            },
+            "product-id": "",
+            "product-link": "",
+            "start-values": {
+                "presets": [
+                    {
+                        "expressions": {
+                            "tool_coolant": "'suction'"
+                        },
+                        "f_n": 0.016666666666666666,
+                        "f_z": 0.04166666666666667,
+                        "guid": "170d98c6-dce2-42df-9acc-64f054736fd5",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Default",
+                        "ramp-angle": 2,
+                        "stepdown": 0.5,
+                        "stepover": 0.12,
+                        "tool-coolant": "suction",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 179.54202015265668,
+                        "v_f": 1500,
+                        "v_f_leadIn": 300,
+                        "v_f_leadOut": 300,
+                        "v_f_plunge": 300,
+                        "v_f_ramp": 300,
+                        "v_f_transition": 1500
+                    },
+                    {
+                        "f_n": 0.016666666666666666,
+                        "f_z": 0.04166666666666667,
+                        "guid": "563e9e03-21e5-4000-b188-da1546d648ee",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Epoxy Tooling Board",
+                        "ramp-angle": 2,
+                        "stepdown": 10,
+                        "stepover": 0.12,
+                        "tool-coolant": "air",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 179.54202015265668,
+                        "v_f": 1500,
+                        "v_f_leadIn": 300,
+                        "v_f_leadOut": 300,
+                        "v_f_plunge": 300,
+                        "v_f_ramp": 300,
+                        "v_f_transition": 1500
+                    },
+                    {
+                        "f_n": 0.016666666666666666,
+                        "f_z": 0.04166666666666667,
+                        "guid": "bd462064-a36f-4194-af88-53838b8c4880",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "HDF",
+                        "ramp-angle": 2,
+                        "stepdown": 0.5,
+                        "stepover": 0.12,
+                        "tool-coolant": "air",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 179.54202015265668,
+                        "v_f": 1500,
+                        "v_f_leadIn": 300,
+                        "v_f_leadOut": 300,
+                        "v_f_plunge": 300,
+                        "v_f_ramp": 300,
+                        "v_f_transition": 1500
+                    },
+                    {
+                        "f_n": 0.016666666666666666,
+                        "f_z": 0.04166666666666667,
+                        "guid": "87841ecc-7a28-46e8-a617-381ce2964c79",
+                        "material": {
+                            "category": "all",
+                            "query": "",
+                            "use-hardness": false
+                        },
+                        "n": 18000,
+                        "n_ramp": 18000,
+                        "name": "Hard Wood",
+                        "ramp-angle": 2,
+                        "stepdown": 0.5,
+                        "stepover": 0.12,
+                        "tool-coolant": "air",
+                        "use-stepdown": true,
+                        "use-stepover": true,
+                        "v_c": 179.54202015265668,
+                        "v_f": 1500,
+                        "v_f_leadIn": 300,
+                        "v_f_leadOut": 300,
+                        "v_f_plunge": 300,
+                        "v_f_ramp": 300,
+                        "v_f_transition": 1500
+                    }
+                ]
+            },
+            "type": "chamfer mill",
+            "unit": "millimeters",
+            "vendor": ""
+        }
+    ],
+    "version": 35
+}

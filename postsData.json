@@ -1,0 +1,923 @@
+{
+  "/Users/antonin/Library/Application Support/Autodesk/Autodesk Fusion 360/CAM/cache/posts/setup-sheet.cps": {
+    "featureFlag": false,
+    "interrogation": {
+      "_cacheFilePath": "/Users/antonin/Library/Application Support/Autodesk/Autodesk Fusion 360/CAM/cache/posts/setup-sheet.cps",
+      "_fileUrl": "https://cam.autodesk.com/posts/download.php?nostats&name=setup-sheet",
+      "allowHelicalMoves": false,
+      "allowMachineChangeOnSection": true,
+      "allowSpiralMoves": false,
+      "allowedCircularPlanes": 0,
+      "capabilities": "SETUP_SHEET",
+      "certificationLevel": 2,
+      "changes": true,
+      "datetime": "2024-03-12 15:03:07",
+      "default_in": {"unit": 0},
+      "default_mm": {"unit": 1},
+      "deprecated": false,
+      "deprecatedDescription": "",
+      "description": "Setup Sheet (HTML)",
+      "extension": "html",
+      "filename": "",
+      "forkid": "{BC98C807-412C-4ffc-BD2B-ABB3F0A59DB8}",
+      "hashlog": {
+        "40501": "a4fd237feb09865a4f6ad738b797bd7e0ec5f12bf7b215db23e24e44ed35aec8",
+        "40509": "0047b44f9c7c2173d68d8fe3056db48b68ba60335823152abdfba327ab9992e0",
+        "40523": "d70be5994fd0bf9108b23ccda8ad5c30974c80130fe6a6dce1f1c8fdccfd51e5",
+        "40524": "2bb9c870e84d3d9c2ad0e8b1a887ff7a15c79bde2179fcb300ae54a87a3ae076",
+        "40529": "19c6c2bc71e2a4f097265b639362f1e3749643571f6baec16f110a541d1b711b",
+        "40539": "dc89112a06e979bc46db608a4339a4edd2edf69bf23dd1a91db2b5a24790d477",
+        "40541": "af8a0822baff1b535d02afabe0471b72fcfd4a92f20b65630ef4232890d2ed3c",
+        "40554": "6d5694e069ef102ad769a4831313f800d4aad4511449c4d09e4d8d24c08656d8",
+        "40556": "7717e1b0c9a7b329fdfcd6497d9ca25dd6d18b112515aac9a9d14a6f49f719dd",
+        "40562": "8f923e0e6aa72b67060ea2ee32be665987364aab8381c43727c769b31dc67509",
+        "40563": "709d84eb7dba6ac526ad7d9dded206695794470e2efde09784d684f927c368d3",
+        "40565": "25e663a98c3454f230cc7b95535ab961fb3d6828e4bc70c96bc935a789e47636",
+        "40569": "125c2560b1e49ca90ba74362a891992bbe3e702ac61ff9d005fc38f95b1c14a6",
+        "40616": "fe8ae43c7e47f7d6be63cb62befc41853677448e1b36b697d3971f22409fd6d1",
+        "40627": "e04a75e7a2d1926193723ddcdb257b5507a4f53c0b7cfaa6017a4700562b344a",
+        "40641": "e2f22acd773db2db4d8f7d39a28d23193c3da82ee92bb92d848c9dd73230a8ca",
+        "40661": "1254027991a3f65ef72b6e46d5a61e5271ae07d4e3ce4cd2e7fedb1c7ce6b06b",
+        "40766": "800e78102ce2c694ab1214ab3d9944547aece74b60fd4c77dcb496f602bfca45",
+        "40767": "eb006c283ecbc7e33b5108b12abaca6fe4c5f6e23b8bcc613e9326dee8115834",
+        "40785": "1916bc3f6630e0f0c5000ee59b968279d76d25a93d4634cacb91551f6a7e7be2",
+        "40792": "c677d5e6a5e9cad071154e376f8b9a767e7d6882f17419bbe6026d4ccd18cde6",
+        "40867": "8964b45fcc0f9d0945ca870796d2e42c4f04363806d371c51560c8b1d5b496d4",
+        "40886": "33657aaca24be0c81d4cc90f77f2877b35511d5360bccb467d865b303bcbc0f5",
+        "40941": "46d3e8531c29c38faff9ec964383ffea3775ec70b562d74f8f744db0a622f0ee",
+        "41091": "465cd63aa6739a156458d8c71a36e22380ac8b83b15a24feab5c903f58b0476c",
+        "41183": "85fe7d0328a1fd72fb73707a5f63d57a8c32a989fbe37f1da3770853a902dba6",
+        "41218": "66407f9fdc22b504f723618561fd31c445d0374c7a10ad5db7b2ad614e7016e7",
+        "41237": "89c183dcce5865495bfdefcfb995d70273fb4bb8c41203fb2de12daac5787efe",
+        "41248": "469ba23b4248c76d720a7e9d3b8c42e09fa7f38f0c2320b77ac6de43f002d15c",
+        "41249": "7135f9b79bc6ec01a76f092ac5e0c4d6746a7b602a01b3024e578197efdb6353",
+        "41263": "81db2de03ec39761ae92b7e5f8de8580dcbb69c8337005fb1f4e2cefd0178b71",
+        "41335": "4d134cdd8dab4eecec36f3da745064e17212cb24961f221f58da81887e037de9",
+        "41349": "dfe73aca7f95ff87c604993f777e682014207ea1f4180506167f59819ccb9f3f",
+        "41389": "c1fc1ece3e1fd1c3493525eac01e8b607588d7ad11067b8d575b7f3ea3facd24",
+        "41413": "5fd22a7a0d0703142547a20d8255f00b3b16133b4d807758b0ade6e341338ac4",
+        "41414": "e47c6c388a8c086624d7172d272dd661863b8cd47a3534c76e0b253e20240973",
+        "41415": "2346f1bf445f1ed5f09df13b926c8e6492878d3e0e15e90d47331182a54a88e4",
+        "41416": "0604ac28e7f8394511b427d0fae95b86458675d98ace827f1bcfe5802c30f3be",
+        "41417": "025913a15e66d02b8fbc5d8ed722bc325b91fa71449bf44188dd240609745aa8",
+        "41418": "20acdaf11245ba9ccf8065e50744442ee1445a7f8f64f318c60caeb3ea5aac07",
+        "41419": "81452db2416accc5963103d72a7d9a1a89606878be9c78e22a6f978cfa910e24",
+        "41420": "7ad7794cf7e42564e33894aab9a1143e07cfd2e93574221337aa02ae9c94e55e",
+        "41421": "de892e785c006b2acf96f2183af9be0b8cf64879842a9b065457b4e4a1b3c327",
+        "41422": "ac6ff2149430a513bdedcc9712106bd3a3ba01aa2e70bfd282da0810cb47a4fa",
+        "41423": "dfd251acf5a864d6adb832427f984d134efddf5b5a684e60c6a378949fe2db35",
+        "41424": "57ac74efbe7a4a3e712b97e2e1ca66824d12ea2e5ed1a0dfbe4325373de10e4f",
+        "41425": "4e8831aff50a44dc0743f4767cf8d991ef4d654fb5bbb8153e76e97f784c8451",
+        "41428": "cce4959d9d69ad6480f95498c5891ac205027962228b48329734178266106074",
+        "41469": "836cfa3b07fa78428111e12f634d5ac349941b4a3a6e0593cedb619bdd12b10e",
+        "41472": "cab16f91cd01d883ff2504efd3d0d17b1d1bc232a067370dd3f544ade6f3ac38",
+        "41524": "57a8fda6fdb074d76818a77f34c7b4ea210033cb81a140172676cf5181276b0b",
+        "41559": "2a31d5915ef55a8af7a1c928784ed29c0ccd0e6afc9f8ee16b229d8ebf82d607",
+        "41560": "44150b8cad6955ed6762e8aa66557ae7d1f20aadba324716ab56e5841e8c77be",
+        "41588": "a8c2f043c091ebd266a3503f9a8fef5ba4a6051bdea0163cfda19030254d2356",
+        "41601": "56f59993059055f9c2f8595bc8956682b1d8df02c6199c04c43171dee2c2c202",
+        "41621": "184607da16ba67cf9cc269b4083bfc1a232efbf6e949fad6c86e9ec0cf9d5a55",
+        "41622": "5085380becd024ec2bbb8b6fde4a2bc58be56897a946cb9ef98ef2e1ac4ae632",
+        "41640": "f56c83a39f90537ec7f20ee68487cf5edc88826debe944bbda372724acc6a79d",
+        "41786": "db51600f9ddec8cfa18c1a452bda0eb6d0677ae3d0fbd44ba6e2f4793c4ccbe8",
+        "42233": "9cc3d7dc8435ca8ea32e0ac08f82c0785bfbb0a31a307f5b1538aee0909ef89d",
+        "42284": "1b39748d27c469ab3d779c55e99a04b509420aac918c0e184740b503cbed8a76",
+        "42444": "52fb4c749d3013a8ae5a6782b5a8c7c2572d88527205382efddac5926ee4c8b3",
+        "42474": "005f6b846f12ce99d1a1ced297736e15a10dc1e488b054a388adaad65a57fdcc",
+        "42485": "b21a8043733d2672cdd0cfa2c7eba05358f6d7a6813bb94a8a7492bcc4023add",
+        "43151": "6b0a9d4d77d6d9a638baeac29ed77fee269201a03e4335bde2c59c14419bf208",
+        "43279": "baa54ac104534e8946aff0a9d55e6f5f10bd1eb98ab196987c9af2beb6e96d0b",
+        "43470": "e5adf4d097148f253ff7e6d394ef5de566d94632fa2a9f01ee3845bd29209976",
+        "44029": "2dc82017b502402ccb92577de4eed883d6bfd5e2a304a722e3ac4f56730a7b07",
+        "44115": "658845a7a75fd810b7ef6809d91ae7411cda3d368a5c118e65c4e7c3c1445a12"
+      },
+      "hidden": false,
+      "highFeedMapping": 0,
+      "highFeedrate": 0,
+      "keywords": "MODEL_IMAGE PREVIEW_IMAGE",
+      "longDescription": "Setup sheet for generating an HTML document with the relevant details for the setup, tools, and individual operations. You can print the document directly or alternatively convert it to a PDF file for later reference.",
+      "maximumCircularRadius": 1000,
+      "maximumCircularSweep": 3.14159265358979,
+      "mimetype": "text/html",
+      "minimumChordLength": 0.01,
+      "minimumCircularRadius": 0.01,
+      "minimumCircularSweep": 0.000174532925199433,
+      "minimumRevision": 45948,
+      "package": true,
+      "pdfsample": "setup-sheet.pdf",
+      "preventPost": false,
+      "programComment": "",
+      "programName": "UNNAMED",
+      "programNameIsInteger": false,
+      "properties": {
+        "embedImages": {
+          "description": "If enabled, images are embedded into the HTML file.",
+          "scope": "post",
+          "title": "Embed images",
+          "type": "boolean",
+          "value": true
+        },
+        "embedStylesheet": {
+          "description": "Embeds the stylesheet in the HTML code.",
+          "scope": "post",
+          "title": "Embed stylesheet",
+          "type": "boolean",
+          "value": true
+        },
+        "forcePreview": {
+          "description": "Enable to force a preview picture for all instances of a pattern.",
+          "scope": "post",
+          "title": "Force preview",
+          "type": "boolean",
+          "value": false
+        },
+        "previewWidth": {
+          "description": "Specifies the width of the preview image.",
+          "scope": "post",
+          "title": "Preview width",
+          "type": "string",
+          "value": "8cm"
+        },
+        "rapidFeed": {
+          "description": "Sets the rapid traversal feedrate. Set this to get more accurate cycle times.",
+          "scope": "post",
+          "title": "Rapid feed",
+          "type": "number",
+          "value": 5000
+        },
+        "showDocumentPath": {
+          "description": "Specifies that the document path should be output.",
+          "scope": "post",
+          "title": "Show document path",
+          "type": "boolean",
+          "value": true
+        },
+        "showFooter": {
+          "description": "Specifies whether a footer should be included in the HTML setup sheet.",
+          "scope": "post",
+          "title": "Show footer",
+          "type": "boolean",
+          "value": true
+        },
+        "showModelImage": {
+          "description": "If enabled, a model image will be included in the setup sheet.",
+          "scope": "post",
+          "title": "Show model image",
+          "type": "boolean",
+          "value": true
+        },
+        "showNotes": {
+          "description": "Writes operation notes as comments in the outputted code.",
+          "scope": "post",
+          "title": "Show notes",
+          "type": "boolean",
+          "value": true
+        },
+        "showOperations": {
+          "description": "Enable to output information for each operation.",
+          "scope": "post",
+          "title": "Show operations",
+          "type": "boolean",
+          "value": true
+        },
+        "showPercentages": {
+          "description": "Specifies that the percentage of the total cycle time should be shown for each operation cycle time.",
+          "scope": "post",
+          "title": "Show percentages",
+          "type": "boolean",
+          "value": true
+        },
+        "showPreviewImage": {
+          "description": "If enabled, a preview image will be included in the setup sheet.",
+          "scope": "post",
+          "title": "Show preview image",
+          "type": "boolean",
+          "value": true
+        },
+        "showRapidDistance": {
+          "description": "Specifies whether the rapid distance should be output.",
+          "scope": "post",
+          "title": "Show rapid distance",
+          "type": "boolean",
+          "value": true
+        },
+        "showToolImage": {
+          "description": "If enabled, tool images will be included in the seutp sheet.",
+          "scope": "post",
+          "title": "Show tool images",
+          "type": "boolean",
+          "value": true
+        },
+        "showTools": {
+          "description": "Enable to see information for each tool.",
+          "scope": "post",
+          "title": "Show tools",
+          "type": "boolean",
+          "value": true
+        },
+        "showTotals": {
+          "description": "Enable to see total information.",
+          "scope": "post",
+          "title": "Show totals",
+          "type": "boolean",
+          "value": true
+        },
+        "toolChangeTime": {
+          "description": "Sets the tool change time in seconds. Set this to get more accurate cycle times.",
+          "scope": "post",
+          "title": "Tool change time",
+          "type": "number",
+          "value": 15
+        },
+        "useUnitSymbol": {
+          "description": "Specifies that symbols should be used for units (some printers may not support this).",
+          "scope": "post",
+          "title": "Use unit symbol",
+          "type": "boolean",
+          "value": false
+        }
+      },
+      "propertyGroups": {
+        "configuration": {
+          "collapsed": true,
+          "description": "Configuration options",
+          "order": 10,
+          "title": "Configuration"
+        },
+        "formats": {
+          "collapsed": true,
+          "description": "NC code format settings",
+          "order": 50,
+          "title": "Formats"
+        },
+        "homePositions": {
+          "collapsed": true,
+          "description": "Settings related to safe retracts and home positioning",
+          "order": 30,
+          "title": "Safe retracts and home positioning"
+        },
+        "multiAxis": {
+          "collapsed": true,
+          "description": "Multi-axis settings",
+          "order": 40,
+          "title": "Multi-axis"
+        },
+        "operation": {
+          "collapsed": true,
+          "description": "Operation options",
+          "order": -1,
+          "title": "Operation"
+        },
+        "preferences": {
+          "collapsed": false,
+          "description": "User preferences",
+          "order": 20,
+          "title": "Preferences"
+        },
+        "probing": {
+          "collapsed": true,
+          "description": "Probing and inspection settings",
+          "order": 60,
+          "title": "Probing and inspection"
+        }
+      },
+      "revision": 44115,
+      "securityRequirements": "",
+      "source": "/Users/antonin/Library/Application Support/Autodesk/Autodesk Fusion 360/CAM/cache/posts/setup-sheet.cps",
+      "tolerance": 0.001,
+      "unit": 0,
+      "vendor": "Autodesk",
+      "vendorUrl": "http://www.autodesk.com"
+    },
+    "modification": "73539:13385456566000000",
+    "sandbox": true,
+    "version": 1
+  },
+  "/Users/antonin/Library/Application Support/Autodesk/Fusion 360 CAM/Posts/SM2.0 (NrvO).cps": {
+    "featureFlag": false,
+    "interrogation": {
+      "allowHelicalMoves": true,
+      "allowMachineChangeOnSection": false,
+      "allowSpiralMoves": false,
+      "allowedCircularPlanes": 0,
+      "capabilities": "MILLING",
+      "certificationLevel": 2,
+      "default_in": {"unit": 0},
+      "default_mm": {"unit": 1},
+      "dependencies": "",
+      "deprecated": false,
+      "deprecatedDescription": "",
+      "description": "Snapmaker 2.0 (Marlin) by Nuno Vaz Oliveira",
+      "extension": ".cnc",
+      "highFeedMapping": 0,
+      "highFeedrate": 6000,
+      "keywords": "",
+      "legal": "Copyright (C) 2022 Nuno Vaz Oliveira",
+      "longDescription": "Milling post for Snapmaker 2.0v20230108.1.20250526, created by Nuno Vaz Oliveira",
+      "maximumCircularRadius": 1000,
+      "maximumCircularSweep": 3.14159265358979,
+      "mimetype": "text/plain",
+      "minimumChordLength": 0.01,
+      "minimumCircularRadius": 0.01,
+      "minimumCircularSweep": 0.000174532925199433,
+      "minimumRevision": 24000,
+      "preventPost": false,
+      "programComment": "",
+      "programName": "UNNAMED",
+      "programNameIsInteger": false,
+      "properties": {
+        "feedRateMode": {
+          "description": "Selech how to handle the retracted feed rate when retracted. 0 -> Don't change and use Fusion 360 values. 1 -> Use custom feed rate filled below as \"Custom feed rate when retracted\". 2 -> Replace G1 with G0 and ignore feed rates",
+          "group": "rapidSection",
+          "scope": "post",
+          "title": "Rapid feed rate mode",
+          "type": "enum",
+          "value": "0",
+          "values": [
+            {
+              "id": "0",
+              "title": "0 -> Don't change"
+            },
+            {
+              "id": "1",
+              "title": "1 -> Use custom feed rate"
+            },
+            {
+              "id": "2",
+              "title": "2 -> Replace G1 with G0"
+            }
+          ]
+        },
+        "retractFeedRate": {
+          "description": "Enter the feed rate to use when retracted in mm/min. This will avoid slow feedrate on rapid moves of Fusion 360 free. This is ignored if \"2 -> Replace G1 with G0\" is selected.",
+          "group": "rapidSection",
+          "range": [1000, 7000],
+          "scope": "post",
+          "title": "Custom feed rate when retracted",
+          "type": "integer",
+          "value": 6000
+        },
+        "separateWordsWithSpace": {
+          "description": "Adds spaces between words when selected.",
+          "group": "formattingSection",
+          "scope": "post",
+          "title": "Separate words with space",
+          "type": "boolean",
+          "value": true
+        },
+        "sequenceNumberIncrement": {
+          "description": "The amount by which the sequence number is incremented by in each block.",
+          "group": "formattingSection",
+          "scope": "post",
+          "title": "Sequence number increment",
+          "type": "integer",
+          "value": 1
+        },
+        "sequenceNumberStart": {
+          "description": "The number at which to start the sequence numbers.",
+          "group": "formattingSection",
+          "scope": "post",
+          "title": "Start sequence number",
+          "type": "integer",
+          "value": 10
+        },
+        "showSequenceNumbers": {
+          "description": "Use sequence numbers for each block of outputted code.",
+          "group": "formattingSection",
+          "scope": "post",
+          "title": "Use sequence numbers",
+          "type": "boolean",
+          "value": false
+        },
+        "writeExtraComments": {
+          "description": "Output additional comments to the file to have a better understanding of the post-processor execution steps. Clearing this will produce the cleanest g-code file after the header.",
+          "group": "informationSection",
+          "scope": "post",
+          "title": "Write extra comments",
+          "type": "boolean",
+          "value": true
+        },
+        "writeMachine": {
+          "description": "Output the machine settings in the header of the code.",
+          "group": "informationSection",
+          "scope": "post",
+          "title": "Write machine",
+          "type": "boolean",
+          "value": true
+        },
+        "writeOperationName": {
+          "description": "Output operation name before the operation starts and immediately before spindle turns on.",
+          "group": "informationSection",
+          "scope": "post",
+          "title": "Write operation name",
+          "type": "boolean",
+          "value": true
+        },
+        "writePost": {
+          "description": "Output the post-processor description and version in the header of the code.",
+          "group": "informationSection",
+          "order": 0,
+          "scope": "post",
+          "title": "Write post-processor",
+          "type": "boolean",
+          "value": true
+        },
+        "writeProgram": {
+          "description": "Output additional comments to the file with program name and comments.",
+          "group": "informationSection",
+          "scope": "post",
+          "title": "Write program information",
+          "type": "boolean",
+          "value": true
+        },
+        "writeWarnings": {
+          "description": "Output comments with warnings for unsupported and ignored functions.",
+          "group": "informationSection",
+          "scope": "post",
+          "title": "Write warnings as comments",
+          "type": "boolean",
+          "value": true
+        }
+      },
+      "propertyGroups": {
+        "configuration": {
+          "collapsed": true,
+          "description": "Configuration options",
+          "order": 10,
+          "title": "Configuration"
+        },
+        "formats": {
+          "collapsed": true,
+          "description": "NC code format settings",
+          "order": 50,
+          "title": "Formats"
+        },
+        "formattingSection": {
+          "collapsed": false,
+          "description": "Definitions for spacing, line numbers, increments, etc...",
+          "order": 2,
+          "title": "Formatting Section"
+        },
+        "homePositions": {
+          "collapsed": true,
+          "description": "Settings related to safe retracts and home positioning",
+          "order": 30,
+          "title": "Safe retracts and home positioning"
+        },
+        "informationSection": {
+          "collapsed": false,
+          "description": "Configure the comments added to the post. Machine, post, program, warnings, etc...",
+          "order": 0,
+          "title": "Information Section"
+        },
+        "multiAxis": {
+          "collapsed": true,
+          "description": "Multi-axis settings",
+          "order": 40,
+          "title": "Multi-axis"
+        },
+        "operation": {
+          "collapsed": true,
+          "description": "Operation options",
+          "order": -1,
+          "title": "Operation"
+        },
+        "preferences": {
+          "collapsed": false,
+          "description": "User preferences",
+          "order": 20,
+          "title": "Preferences"
+        },
+        "probing": {
+          "collapsed": true,
+          "description": "Probing and inspection settings",
+          "order": 60,
+          "title": "Probing and inspection"
+        },
+        "rapidSection": {
+          "collapsed": false,
+          "description": "Selects what manipulation to add to the feed rate when retracted",
+          "order": 1,
+          "title": "Rapid Feed Rate Section"
+        }
+      },
+      "securityRequirements": "",
+      "source": "/Users/antonin/Library/Application Support/Autodesk/Fusion 360 CAM/Posts/SM2.0 (NrvO).cps",
+      "tolerance": 0.002,
+      "unit": 0,
+      "vendor": "Snapmaker",
+      "vendorUrl": "http://www.snapmaker.com"
+    },
+    "modification": "48618:13392819128950173",
+    "sandbox": false,
+    "version": 1
+  },
+  "/Users/antonin/Library/Application Support/Autodesk/Fusion 360 CAM/Posts/snapmaker-baxis.cps": {
+    "featureFlag": false,
+    "interrogation": {
+      "allowHelicalMoves": true,
+      "allowMachineChangeOnSection": false,
+      "allowSpiralMoves": false,
+      "capabilities": "MILLING",
+      "certificationLevel": 2,
+      "datetime": "2018-11-06 13:08:35",
+      "default_in": {"unit": 0},
+      "default_mm": {"unit": 1},
+      "dependencies": "",
+      "deprecated": false,
+      "deprecatedDescription": "",
+      "description": "FANUC - Inverse Time and A-axis",
+      "extension": "cnc",
+      "forkid": "{CB457AE9-77B4-4F88-B95A-4DC6980DBE3D}",
+      "highFeedMapping": 0,
+      "highFeedrate": 0,
+      "iso": true,
+      "keywords": "",
+      "legal": "Copyright (C) 2012-2018 by Autodesk, Inc.",
+      "longDescription": "Generic Fanuc post illustrating inverse time feed with an A-axis.",
+      "maximumCircularRadius": 1000,
+      "maximumCircularSweep": 3.14159265358979,
+      "mimetype": "text/plain",
+      "minimumChordLength": 10,
+      "minimumCircularRadius": 10,
+      "minimumCircularSweep": 0.174532925199433,
+      "minimumRevision": 40783,
+      "preventPost": false,
+      "programComment": "",
+      "programName": "UNNAMED",
+      "programNameIsInteger": true,
+      "properties": {
+        "allow3DArcs": {
+          "description": "Specifies whether 3D circular arcs are allowed.",
+          "scope": "post",
+          "title": "Allow 3D arcs",
+          "type": "boolean",
+          "value": false
+        },
+        "forceIJK": {
+          "description": "Force the output of IJK for G2/G3 when not using R mode.",
+          "scope": "post",
+          "title": "Force IJK",
+          "type": "boolean",
+          "value": false
+        },
+        "makeAAxisOtherWay": {
+          "description": "Makes the A-axis rotate the opposite way.",
+          "scope": "post",
+          "title": "Reverse A-axis",
+          "type": "boolean",
+          "value": false
+        },
+        "o8": {
+          "description": "Specifies that an 8 digit program number is needed.",
+          "scope": "post",
+          "title": "8 Digit program number",
+          "type": "boolean",
+          "value": false
+        },
+        "optionalStop": {
+          "description": "Outputs optional stop code during when necessary in the code.",
+          "scope": "post",
+          "title": "Optional stop",
+          "type": "boolean",
+          "value": true
+        },
+        "preloadTool": {
+          "description": "Preloads the next tool at a tool change (if any).",
+          "group": 1,
+          "scope": "post",
+          "title": "Preload tool",
+          "type": "boolean",
+          "value": true
+        },
+        "separateWordsWithSpace": {
+          "description": "Adds spaces between words if 'yes' is selected.",
+          "scope": "post",
+          "title": "Separate words with space",
+          "type": "boolean",
+          "value": true
+        },
+        "sequenceNumberIncrement": {
+          "description": "The amount by which the sequence number is incremented by in each block.",
+          "group": 1,
+          "scope": "post",
+          "title": "Sequence number increment",
+          "type": "integer",
+          "value": 5
+        },
+        "sequenceNumberStart": {
+          "description": "The number at which to start the sequence numbers.",
+          "group": 1,
+          "scope": "post",
+          "title": "Start sequence number",
+          "type": "integer",
+          "value": 10
+        },
+        "showNotes": {
+          "description": "Writes operation notes as comments in the outputted code.",
+          "scope": "post",
+          "title": "Show notes",
+          "type": "boolean",
+          "value": false
+        },
+        "showSequenceNumbers": {
+          "description": "Use sequence numbers for each block of outputted code.",
+          "group": 1,
+          "scope": "post",
+          "title": "Use sequence numbers",
+          "type": "boolean",
+          "value": false
+        },
+        "useClockwise": {
+          "description": "",
+          "scope": "post",
+          "title": "Use clockwise or anticlockwise",
+          "type": "boolean",
+          "value": false
+        },
+        "useG54x4": {
+          "description": "Fanuc 30i supports G54.4 for workpiece error compensation.",
+          "scope": "post",
+          "title": "Use G54.4",
+          "type": "boolean",
+          "value": false
+        },
+        "useG95": {
+          "description": "Use IPR/MPR instead of IPM/MPM.",
+          "scope": "post",
+          "title": "Use G95",
+          "type": "boolean",
+          "value": false
+        },
+        "useInverseTimeFeed": {
+          "description": "",
+          "scope": "post",
+          "title": "Use inverse time feed",
+          "type": "boolean",
+          "value": false
+        },
+        "usePitchForTapping": {
+          "description": "Enables the use of pitch instead of feed for the F-word in canned tapping cycles. Your CNC control must be setup for pitch mode!",
+          "scope": "post",
+          "title": "Use pitch for tapping",
+          "type": "boolean",
+          "value": false
+        },
+        "useRadius": {
+          "description": "If yes is selected, arcs are outputted using radius values rather than IJK.",
+          "scope": "post",
+          "title": "Radius arcs",
+          "type": "boolean",
+          "value": false
+        },
+        "useRigidTapping": {
+          "description": "Select 'Yes' to enable, 'No' to disable, or 'Without spindle direction' to enable rigid tapping without outputting the spindle direction block.",
+          "scope": "post",
+          "title": "Use rigid tapping",
+          "type": "enum",
+          "value": "yes",
+          "values": [
+            {
+              "id": "yes",
+              "title": "Yes"
+            },
+            {
+              "id": "no",
+              "title": "No"
+            },
+            {
+              "id": "without",
+              "title": "Without spindle direction"
+            }
+          ]
+        },
+        "useSmoothing": {
+          "description": "Specifies if smoothing should be used or not.",
+          "scope": "post",
+          "title": "Use smoothing",
+          "type": "boolean",
+          "value": false
+        },
+        "useSubroutineCycles": {
+          "description": "Generates subroutines for cycle operations on same holes.",
+          "scope": "post",
+          "title": "Use subroutine cycles",
+          "type": "boolean",
+          "value": false
+        },
+        "useSubroutinePatterns": {
+          "description": "Generates subroutines for patterned operation.",
+          "scope": "post",
+          "title": "Use subroutine patterns",
+          "type": "boolean",
+          "value": false
+        },
+        "useSubroutines": {
+          "description": "Specifies that subroutines per each operation should be generated.",
+          "scope": "post",
+          "title": "Use subroutines",
+          "type": "boolean",
+          "value": false
+        },
+        "writeMachine": {
+          "description": "Output the machine settings in the header of the code.",
+          "group": 0,
+          "scope": "post",
+          "title": "Write machine",
+          "type": "boolean",
+          "value": true
+        },
+        "writeTools": {
+          "description": "Output a tool list in the header of the code.",
+          "group": 0,
+          "scope": "post",
+          "title": "Write tool list",
+          "type": "boolean",
+          "value": true
+        },
+        "zInitialHeight": {
+          "description": "Initial height of Z before printing",
+          "group": 1,
+          "scope": "post",
+          "title": "Z initial height",
+          "type": "integer",
+          "value": 50
+        }
+      },
+      "propertyGroups": {
+        "configuration": {
+          "collapsed": true,
+          "description": "Configuration options",
+          "order": 10,
+          "title": "Configuration"
+        },
+        "formats": {
+          "collapsed": true,
+          "description": "NC code format settings",
+          "order": 50,
+          "title": "Formats"
+        },
+        "homePositions": {
+          "collapsed": true,
+          "description": "Settings related to safe retracts and home positioning",
+          "order": 30,
+          "title": "Safe retracts and home positioning"
+        },
+        "multiAxis": {
+          "collapsed": true,
+          "description": "Multi-axis settings",
+          "order": 40,
+          "title": "Multi-axis"
+        },
+        "operation": {
+          "collapsed": true,
+          "description": "Operation options",
+          "order": -1,
+          "title": "Operation"
+        },
+        "preferences": {
+          "collapsed": false,
+          "description": "User preferences",
+          "order": 20,
+          "title": "Preferences"
+        },
+        "probing": {
+          "collapsed": true,
+          "description": "Probing and inspection settings",
+          "order": 60,
+          "title": "Probing and inspection"
+        }
+      },
+      "revision": 42172,
+      "securityRequirements": "",
+      "source": "/Users/antonin/Library/Application Support/Autodesk/Fusion 360 CAM/Posts/snapmaker-baxis.cps",
+      "tolerance": 0.2,
+      "unit": 0,
+      "vendor": "Fanuc",
+      "vendorUrl": "http://www.fanuc.com"
+    },
+    "modification": "109048:13385827283884880",
+    "sandbox": true,
+    "version": 1
+  },
+  "/Users/antonin/Library/Application Support/Autodesk/Fusion 360 CAM/Posts/snapmaker.cps": {
+    "featureFlag": false,
+    "interrogation": {
+      "allowHelicalMoves": true,
+      "allowMachineChangeOnSection": false,
+      "allowSpiralMoves": false,
+      "allowedCircularPlanes": 0,
+      "capabilities": "MILLING",
+      "certificationLevel": 2,
+      "default_in": {"unit": 0},
+      "default_mm": {"unit": 1},
+      "dependencies": "",
+      "deprecated": false,
+      "deprecatedDescription": "",
+      "description": "Generic Snapmaker (Marlin)",
+      "extension": ".cnc",
+      "highFeedMapping": 0,
+      "highFeedrate": 0,
+      "iso": true,
+      "keywords": "",
+      "legal": "Copyright (C) 2016-2018 by Snapmaker, Inc.",
+      "longDescription": "Generic milling post for Snapmaker.v20180725",
+      "maximumCircularRadius": 1000,
+      "maximumCircularSweep": 3.14159265358979,
+      "mimetype": "text/plain",
+      "minimumChordLength": 0.01,
+      "minimumCircularRadius": 0.01,
+      "minimumCircularSweep": 0.000174532925199433,
+      "minimumRevision": 24000,
+      "preventPost": false,
+      "programComment": "",
+      "programName": "UNNAMED",
+      "programNameIsInteger": false,
+      "properties": {
+        "separateWordsWithSpace": {
+          "scope": "post",
+          "title": "separateWordsWithSpace",
+          "type": "boolean",
+          "value": true
+        },
+        "sequenceNumberIncrement": {
+          "scope": "post",
+          "title": "sequenceNumberIncrement",
+          "type": "number",
+          "value": 1
+        },
+        "sequenceNumberStart": {
+          "scope": "post",
+          "title": "sequenceNumberStart",
+          "type": "number",
+          "value": 10
+        },
+        "showSequenceNumbers": {
+          "scope": "post",
+          "title": "showSequenceNumbers",
+          "type": "boolean",
+          "value": false
+        },
+        "writeMachine": {
+          "scope": "post",
+          "title": "writeMachine",
+          "type": "boolean",
+          "value": true
+        }
+      },
+      "propertyGroups": {
+        "configuration": {
+          "collapsed": true,
+          "description": "Configuration options",
+          "order": 10,
+          "title": "Configuration"
+        },
+        "formats": {
+          "collapsed": true,
+          "description": "NC code format settings",
+          "order": 50,
+          "title": "Formats"
+        },
+        "homePositions": {
+          "collapsed": true,
+          "description": "Settings related to safe retracts and home positioning",
+          "order": 30,
+          "title": "Safe retracts and home positioning"
+        },
+        "multiAxis": {
+          "collapsed": true,
+          "description": "Multi-axis settings",
+          "order": 40,
+          "title": "Multi-axis"
+        },
+        "operation": {
+          "collapsed": true,
+          "description": "Operation options",
+          "order": -1,
+          "title": "Operation"
+        },
+        "preferences": {
+          "collapsed": false,
+          "description": "User preferences",
+          "order": 20,
+          "title": "Preferences"
+        },
+        "probing": {
+          "collapsed": true,
+          "description": "Probing and inspection settings",
+          "order": 60,
+          "title": "Probing and inspection"
+        }
+      },
+      "securityRequirements": "",
+      "source": "/Users/antonin/Library/Application Support/Autodesk/Fusion 360 CAM/Posts/snapmaker.cps",
+      "tolerance": 0.002,
+      "unit": 0,
+      "vendor": "SNAPMAKER",
+      "vendorUrl": "http://www.snapmaker.com"
+    },
+    "modification": "11472:13384540599713283",
+    "sandbox": false,
+    "version": 1
+  }
+}

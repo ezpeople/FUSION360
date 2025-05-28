@@ -868,7 +868,7 @@ function onCommand(command) {
             return;
         case COMMAND_CALIBRATE:
             return;
-        case COMMAN_CHANGE_PALLET:
+        case COMMAND_CHANGE_PALLET:
             return;
         case COMMAND_CLEAN:
             return;

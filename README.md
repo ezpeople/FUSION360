@@ -16,7 +16,7 @@ NOTES ON Post Executable:
   c. run it: ./post ⏎
   d. a system popup is displayed to verify the executable, accept it
   e. you are done
-- There is help but lacks a manual
+- REFERENCE HERE: https://cam.autodesk.com/posts/reference/index.html
 
 NOTES ON VS Code Extension Autodesk Fusion Post Processor Utility:
 - Took me hard times to figure where the executable is
